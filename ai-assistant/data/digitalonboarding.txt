@@ -1,0 +1,590 @@
+# Chào mừng đến với HSBC
+## Hướng dẫn sử dụng cho khách hàng mới
+
+![HSBC Logo](https://example.com/hsbc-logo.png)
+
+*Hình ảnh chỉ mang tính chất minh họa*
+
+**Đăng ngày 24/02/2021**
+
+**Together we thrive**
+
+[Trang sau >](#)
+
+---
+# Mục Lục
+
+1. Tóm lược Quy trình cho khách hàng mới  
+   Trang 03
+
+2. Đăng ký Ngân Hàng Trực Tuyến  
+   Trang 06
+
+3. Thiết lập ứng dụng HSBC Việt Nam  
+   Trang 10
+
+4. Đăng nhập Ngân Hàng Trực Tuyến  
+   Trang 20
+
+---
+
+HSBC
+---
+
+# Tóm lược
+## Quy trình cho khách hàng mới
+
+*Hình ảnh chỉ mang tính chất minh họa*
+
+HSBC
+
+* Mục lục | ◄ Trang trước | Trang sau ►
+
+---
+
+# 1 Tóm lược Quy trình cho khách hàng mới
+
+## Tóm lược Quy trình cho khách hàng mới
+
+1. **Bước 01**
+   - Mở tài khoản ngân hàng HSBC
+
+2. **Bước 02**
+   - Quét mã QR trong thư gửi khách hàng mới để truy cập hướng dẫn đăng ký Ngân Hàng Trực Tuyến
+   - *Quý khách hiện đang ở đây*
+
+3. **Bước 03**
+   - Đăng ký Ngân Hàng Trực Tuyến
+
+4. **Bước 04**
+   - Tải ứng dụng HSBC Việt Nam và thiết lập ứng dụng trên thiết bị di động
+
+5. **Bước 05**
+   - Digital Secure Key tự động kích hoạt
+
+6. **Bước 06**
+   - Đăng nhập Ngân Hàng Trực Tuyến với Digital Secure Key và bắt đầu thực hiện giao dịch trực tuyến!
+
+*Có trong bản Hướng dẫn sử dụng này*
+
+---
+
+# 1 Tóm lược Quy trình cho khách hàng mới
+
+- Truy cập hướng dẫn Đăng ký Ngân Hàng Trực Tuyến
+
+![HSBC Card with QR Code](https://example.com/hsbc-card-qr-code)
+
+Sau khi quét mã QR đính kèm trong thư gửi đến khách hàng mới, Quý khách sẽ được chuyển đến Hướng dẫn Đăng ký Ngân Hàng Trực Tuyến.
+
+Nhấn "Trang sau" ở góc dưới cùng bên phải trang này để tìm hiểu thêm.
+
+---
+
+# Đăng ký
+
+## Ngân Hàng Trực Tuyến HSBC
+
+- Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt máy tính
+- Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt thiết bị di động
+
+---
+
+HSBC
+
+---
+# Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt máy tính
+
+### QUÝ KHÁCH LƯU Ý:
+Trước khi đăng ký, hãy đảm bảo Quý khách có một trong 3 thông tin đăng nhập dưới đây:
+- Số tài khoản thẻ thanh toán quốc tế, Số phát hành & PIN
+- Số thẻ tín dụng & PIN
+- Mã số Ngân hàng qua điện thoại & PIN
+
+### 1. Truy cập trang chủ HSBC Việt Nam tại [https://www.hsbc.com.vn](https://www.hsbc.com.vn) và chọn "Đăng ký" (góc phải phía trên cùng của trang chủ)
+
+![HSBC Homepage](https://www.hsbc.com.vn)
+
+### 2. Nhấn vào trang Đăng ký Ngân Hàng Trực Tuyến, chọn "Đăng ký ngay"
+
+![HSBC Registration Page](https://www.hsbc.com.vn)
+
+---
+
+*Hình ảnh chỉ mang tính chất minh họa*
+
+---
+
+**Hướng dẫn sử dụng cho khách hàng mới**
+
+- Mục lục
+- Trang trước
+- Trang sau
+---
+# Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt máy tính
+
+### 3. Lựa chọn các phương thức đăng ký và nhập thông tin xác thực của Quý khách, chọn "Tiếp tục"
+
+![HSBC](https://www.hsbc.com)
+
+**Đăng ký Ngân hàng Trực tuyến**
+
+- Xác thực:
+  - Số thẻ tín dụng hoặc thẻ ghi nợ
+  - Số tài khoản
+  - Số điện thoại di động
+  - Mã bảo mật
+  - Điều khoản và điều kiện
+
+**[Tiếp tục]**
+
+### 4. Tạo tên đăng nhập và mật khẩu, chọn "Tiếp tục"
+
+![HSBC](https://www.hsbc.com)
+
+**Create new log on details**
+
+- Username: `username_testing`
+- Password: `********`
+- Confirm Password: `********`
+
+**[Continue]**
+
+*Lưu ý: Tùy thuộc vào phương thức đăng ký Quý khách đã chọn sẽ có các yêu cầu khác nhau*
+---
+# Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt máy tính
+
+### 5. Tạo câu hỏi bảo mật và câu trả lời, chọn "Tiếp tục"
+
+![HSBC](https://www.hsbc.com)
+
+**Tạo câu hỏi bảo mật**
+
+- **Câu hỏi bảo mật**: Người bạn thân nhất trong gia đình bạn tên gì?
+- **Câu trả lời**: [Nhập câu trả lời]
+- **Xác nhận câu trả lời**: [Nhập lại câu trả lời]
+
+**Nhấn "Tiếp tục"**
+
+### 6. Đọc, hiểu, và đồng ý bản Điều khoản và Điều kiện, chọn "Tiếp tục"
+
+![HSBC](https://www.hsbc.com)
+
+**Điều khoản và Điều kiện**
+
+- **Đồng ý**: [Chọn hộp kiểm]
+
+**Nhấn "Tiếp tục"**
+---
+
+# 2. Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt máy tính
+
+![HSBC](https://www.hsbc.com)
+
+### Đăng ký thành công
+
+Quý khách đã hoàn tất đăng ký Ngân Hàng Trực Tuyến của mình.
+
+Quý khách có thể sử dụng Ngân Hàng Trực Tuyến ngay lập tức. Nếu quý khách cần hỗ trợ, vui lòng liên hệ với chúng tôi.
+
+### Hành trình Ngân Hàng Trực Tuyến
+
+1. Đăng ký Ngân Hàng Trực Tuyến ✔️
+2. Thiết lập ứng dụng HSBC Việt Nam ➡️
+3. Đăng nhập Ngân Hàng Trực Tuyến ➡️
+
+**Lưu ý:** Quý khách có thể hoàn thành cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt máy tính và đăng nhập ngay lập tức. Nếu cần thiết, quý khách có thể thiết lập ứng dụng HSBC Việt Nam để sử dụng dịch vụ ngân hàng trực tuyến.
+
+*Nhấn để đến mục thiết lập ứng dụng*
+
+---
+
+# 2. Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt thiết bị di động
+
+### QUÝ KHÁCH LƯU Ý:
+Trước khi đăng ký, hãy đảm bảo Quý khách có một trong 3 thông tin đăng nhập dưới đây:
+- Số tài khoản thẻ thanh toán quốc tế, số phát hành & PIN
+- Số thẻ tín dụng & PIN
+- Mã số Ngân hàng qua điện thoại & PIN
+
+### Hướng dẫn:
+
+1. **Truy cập** trang chủ HSBC (https://www.hsbc.com.vn/) trên trình duyệt thiết bị di động và **Nhấn chọn "Đăng ký"** trên thanh công cụ.
+
+   ![Step 1](image1.png)
+   
+2. **Nhấn chọn "Đăng ký ngay"**.
+
+   ![Step 2](image2.png)
+
+---
+# Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt thiết bị di động
+
+### Hướng dẫn sử dụng cho khách hàng mới
+
+1. **Chọn phương thức đăng ký mong muốn, nhập thông tin cần thiết, nhấn chọn "Tiếp tục"**
+
+    ![Step 3](https://example.com/step3.png)
+    
+    - Sử dụng thẻ tín dụng
+    - Số thẻ tín dụng
+    - Và PIN thẻ tín dụng của bạn
+    - Mã số Ngân hàng qua điện thoại
+    - Số tài khoản liên kết thanh toán quốc tế
+
+2. **Tạo tên đăng nhập và mật khẩu, nhấn "Tiếp tục"**
+
+    ![Step 4](https://example.com/step4.png)
+    
+    - User name
+    - Password
+    - Confirm password
+
+*Hình ảnh chỉ mang tính chất minh họa*
+
+---
+
+- Mục lục
+- Trang trước
+- Trang sau
+---
+# Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt thiết bị di động
+
+### Hướng dẫn sử dụng cho khách hàng mới
+
+1. **Thiết lập các câu hỏi và câu trả lời, nhấn "Tiếp tục"**
+
+    ![Step 5](https://example.com/step5.png)
+    - Màn hình hiển thị phần "Create security question" (Tạo câu hỏi bảo mật).
+    - Người dùng chọn câu hỏi bảo mật từ danh sách và nhập câu trả lời.
+
+2. **Đọc, hiểu và đồng ý bản Điều Khoản và Điều Kiện trước khi nhấn "Tiếp tục"**
+
+    ![Step 6](https://example.com/step6.png)
+    - Màn hình hiển thị phần "Terms and Conditions" (Điều Khoản và Điều Kiện).
+    - Người dùng đánh dấu vào ô "I have read and agree to the Terms and Conditions for HSBC Online Banking" (Tôi đã đọc và đồng ý với Điều Khoản và Điều Kiện của Dịch Vụ Ngân Hàng Trực Tuyến HSBC).
+    - Nhấn "Continue" (Tiếp tục) để hoàn tất bước này.
+
+---
+
+*Hình ảnh chỉ mang tính chất minh họa*
+---
+
+# Đăng ký Ngân Hàng Trực Tuyến
+
+## Cách đăng ký Ngân Hàng Trực Tuyến trên trình duyệt thiết bị di động
+
+![HSBC Registration Complete](https://hsbc.com.vn)
+
+7. Xin chúc mừng, Quý khách đã hoàn tất đăng ký Ngân Hàng trực tuyến!
+
+# Hành trình Ngân Hàng Trực Tuyến
+
+1. Đăng ký Ngân Hàng Trực Tuyến ✔️
+2. Thiết lập ứng dụng HSBC Việt Nam ➡️
+3. Đăng nhập Ngân Hàng Trực Tuyến ➡️
+
+Nhấn để đến mục thiết lập ứng dụng
+
+---
+
+# Thiết lập
+Ứng dụng HSBC Việt Nam
+
+* Thiết lập ứng dụng HSBC Việt Nam >
+* Tính năng Digital Secure Key >
+
+*Hình ảnh chỉ mang tính chất minh họa*
+
+---
+
+HSBC
+
+* Mục lục | Trang trước | Trang sau
+
+---
+
+# Thiết lập ứng dụng HSBC Việt Nam
+
+## Tải ứng dụng HSBC Việt Nam
+
+![HSBC Việt Nam App](image_url)
+
+- Ứng dụng hoạt động trên hệ điều hành **iOS phiên bản 13 trở lên / Android phiên bản 7 trở lên**.
+- Sử dụng 2 từ khóa để tìm kiếm tại App Store (iOS) và Google Store (Android): **HSBC & HSBC Vietnam**; hoặc,
+- Quét các mã QR bên dưới để tải xuống phiên bản HSBC Việt Nam mới nhất.
+
+| ![QR Code for App Store](app_store_qr_url) | ![QR Code for Google Play](google_play_qr_url) |
+|--------------------------------------------|------------------------------------------------|
+| Download on the App Store                  | Get it on Google Play                          |
+
+---
+
+# Thiết lập ứng dụng HSBC Việt Nam
+
+- Đọc, đồng ý với bản Điều khoản & Điều kiện và Nhập tên đăng nhập Ngân Hàng Trực Tuyến
+
+1. ![Step 1](image1.png)
+   - Đọc, hiểu và Đồng ý bản Điều khoản & Điều kiện bằng cách chọn "Tôi đồng ý với bản Điều khoản và Điều kiện", sau đó nhấn chọn "Tiếp tục".
+
+2. ![Step 2](image2.png)
+   - Nhấn chọn "Tiếp tục".
+
+3. ![Step 3](image3.png)
+   - Nhập tên đăng nhập của Quý khách và chọn "Tiếp tục".
+
+---
+
+# Thiết lập ứng dụng HSBC Việt Nam
+
+## Xác minh danh tính
+
+4. Nhập mật khẩu được tạo khi đăng ký Ngân Hàng trực tuyến và chọn "Tiếp tục".
+
+![Step 4](image4.png)
+
+5. Nhấn chọn "Gửi mã kích hoạt" ở màn hình Mã kích hoạt nếu thông tin đăng nhập của Quý khách khớp với số mà Quý khách đăng ký với Ngân hàng.
+
+![Step 5](image5.png)
+
+6. Nhập mã SMS OTP mà Quý khách nhận được.
+
+![Step 6](image6.png)
+
+---
+
+# 3 Thiết lập ứng dụng HSBC Việt Nam
+
+## Kích hoạt Digital Secure Key (DSK)
+
+7. ![HSBC Mobile App](image.jpg)
+
+   Giới thiệu Digital Secure Key trên thiết bị di động.
+
+   Đăng nhập Ngân hàng Trực tuyến giờ đây trở nên dễ dàng hơn bao giờ hết. Quý khách có thể đăng nhập bằng mã bảo mật được tạo từ ứng dụng HSBC Mobile Banking.
+
+   Nếu Quý khách muốn tạm hoãn lựa chọn này, vui lòng chọn "Hủy bỏ" để trở về màn hình chính.
+
+   [Tiếp tục]
+
+4. Quý khách chọn **Tiếp tục** để sử dụng Digital Secure Key (DSK)
+
+---
+# Thiết lập ứng dụng HSBC Việt Nam
+
+## Tạo mã PIN 6 chữ số
+
+1. **Tạo mã PIN 6 chữ số**
+    - **8**: Tạo một mã PIN 6 chữ số.
+    - **9**: Nhập lại mã PIN vừa tạo để xác nhận.
+    - **10**: Nhấn chọn "Tiếp tục" để hoàn tất quy trình.
+
+### Hình ảnh minh họa
+
+- **Hình 8**: Màn hình yêu cầu tạo mã PIN 6 chữ số.
+- **Hình 9**: Màn hình yêu cầu xác nhận mã PIN vừa tạo.
+- **Hình 10**: Màn hình thông báo hoàn tất cập nhật mã PIN, với nút "Tiếp tục" để hoàn tất quy trình.
+---
+
+# 3 Thiết lập ứng dụng HSBC Việt Nam
+
+## Kích hoạt sinh trắc học
+
+Nếu thiết bị của Quý khách hỗ trợ tính năng xác thực sinh trắc học, Quý khách có thể kích hoạt tính năng này để dùng cho những lần đăng nhập tiếp theo hoặc để tạo mã bảo mật dùng cho Ngân hàng trực tuyến.
+
+11. **Nhấn chọn "Kích hoạt Face ID/Touch ID ngay bây giờ"**
+
+12. **Nhấn chọn "Tiếp tục"** để đi đến trang tổng quan tài khoản trên ứng dụng.
+
+### Hình ảnh minh họa:
+
+- **Hình 11**: Màn hình kích hoạt Face ID với nút "Kích hoạt Face ID ngay bây giờ" được tô đỏ.
+- **Hình 12**: Màn hình thông báo "Đã thiết lập Face ID" với nút "Tiếp tục" ở phía dưới.
+
+
+---
+
+# Thiết lập ứng dụng HSBC Việt Nam
+
+## Kích hoạt sinh trắc học
+
+1. **Nhấn chọn "Đăng nhập bằng mã PIN"** (13)
+
+   ![Step 13](image1.png)
+
+2. **Nhập mã PIN 6 chữ số của Quý khách vừa mới tạo trước đó** (14)
+
+   ![Step 14](image2.png)
+
+Lưu ý, Quý khách có thể đăng nhập ứng dụng lần đầu tiên bằng cách nhấn chọn "Đăng nhập bằng Touch ID" hoặc sử dụng mã Pin 6 chữ số bằng cách làm theo các bước sau:
+
+13. Nhấn chọn "Đăng nhập bằng mã PIN"
+
+14. Nhập mã PIN 6 chữ số Quý khách vừa mới tạo trước đó.
+
+---
+# Thiết lập ứng dụng HSBC Việt Nam
+
+## Tính năng Digital Secure Key
+
+Sau khi thiết lập ứng dụng HSBC Việt Nam và đăng nhập thành công, tính năng Digital Secure Key sẽ được tự động kích hoạt. Để xem tùy chọn tạo mã bảo mật của tính năng này, vui lòng làm theo các bước sau:
+
+15. **Nhấn** chọn **"Thông tin tài khoản"** nằm ở góc trên bên phải màn hình ứng dụng.
+16. **Nhấn** chọn **"Đăng xuất"** để đăng xuất ứng dụng.
+
+![Step 15](image1.png)
+![Step 16](image2.png)
+---
+
+# Thiết lập ứng dụng HSBC Việt Nam
+
+## Tính năng Digital Secure Key
+
+![Image 16](image16.png) ![Image 17](image17.png)
+
+Ở màn hình đăng nhập, Quý khách vui lòng không thực hiện đăng nhập như thường lệ mà làm theo các bước sau:
+
+16) Nhấn chọn “Tạo mã bảo mật” ở dưới cùng của màn hình.
+
+17) Ba tùy chọn tạo mã bảo mật bằng tính năng Digital Secure Key đã sẵn sàng để sử dụng.
+   - Đăng nhập Ngân Hàng trực tuyến
+   - Xác thực giao dịch
+   - Mã xác thực
+
+---
+
+# Đăng nhập
+## Ngân Hàng Trực Tuyến
+
+*Hình ảnh chỉ mang tính chất minh họa*
+
+HSBC
+
+* Mục lục  ◄ Trang trước  |  Trang sau ►
+
+---
+# Đăng nhập Ngân Hàng Trực Tuyến
+
+## Nhập tên đăng nhập
+
+### 1. Truy cập vào Website HSBC Việt Nam và chọn "Đăng nhập" (góc phải phía trên trang chủ)
+
+![HSBC Website](https://www.hsbc.com.vn)
+
+### 2. Nhập tên đăng nhập
+
+![HSBC Login](https://www.hsbc.com.vn/login)
+
+---
+
+*Hướng dẫn sử dụng cho khách hàng mới*
+
+---
+
+- Mục lục
+- Trang trước
+- Trang sau
+---
+
+# Đăng nhập Ngân Hàng Trực Tuyến
+
+## Nhập mã bảo mật
+
+1. Nhập mã bảo mật mà Quý khách có hoặc bấm chọn "Cách tạo mã bảo mật" để tham khảo.
+
+![HSBC Login](https://www.hsbc.com.vn/content/dam/hsbc/vn/images/personal/online-banking/hsbc-login.jpg)
+
+2. Vui lòng nhập mã bảo mật từ Thiết Bị Bảo Mật của Quý khách.
+
+3. Bấm chọn "Cách tạo mã bảo mật" để xem hướng dẫn tạo mã bảo mật bằng tính năng Digital Secure Key trên ứng dụng HSBC Việt Nam.
+
+*Hình ảnh chỉ mang tính chất minh họa*
+
+*Hướng dẫn sử dụng cho khách hàng mới*
+
+---
+
+# 4 Đăng nhập Ngân Hàng Trực Tuyến
+
+## Nhập mã bảo mật
+
+![Step 1](image1.png)
+1. Trên màn hình đăng nhập, nhấn chọn "Tạo mã bảo mật".
+
+![Step 2](image2.png)
+2. Nhấn chọn "Đăng nhập Ngân Hàng Trực Tuyến".
+
+Để tạo mã bảo mật bằng tính năng Digital Secure Key trên ứng dụng HSBC Việt Nam, mở ứng dụng (nhưng không đăng nhập), và làm theo các bước sau:
+
+1. Nhấn chọn "Tạo mã bảo mật" từ màn hình đăng nhập.
+2. Nhấn chọn "Đăng nhập Ngân Hàng Trực Tuyến".
+
+---
+
+# 4 Đăng nhập Ngân Hàng Trực Tuyến
+## Nhập mã bảo mật
+
+![Step 3](image1.png)
+3. Nhập mã PIN gồm 6 chữ số hoặc dùng sinh trắc học (tính năng Face ID hoặc Touch ID) để cấp quyền tạo mã bảo mật.
+
+![Step 4](image2.png)
+4. Sao chép mã bảo mật vừa được tạo để nhập vào trường nhập mã trên Ngân Hàng Trực Tuyến (vui lòng tham khảo trang tiếp theo).
+
+Quý khách cũng có thể trở về màn hình tạo mã bảo mật để tạo một mã bảo mật mới bằng cách nhấn chọn "Tạo mã bảo mật mới" nằm ở dưới cùng màn hình.
+
+---
+
+# 4 Đăng nhập Ngân Hàng Trực Tuyến
+
+## Nhập mã bảo mật
+
+![Step 5](image)
+
+1. Mở ứng dụng HSBC Mobile Banking và tạo mã bảo mật.
+2. Mã bảo mật sẽ hiển thị trên màn hình ứng dụng, ví dụ: `422094`.
+3. Truy cập vào trang đăng nhập Ngân Hàng Trực Tuyến của HSBC Việt Nam.
+4. Nhập mã bảo mật vừa được tạo vào trường nhập mã bảo mật trên trang đăng nhập.
+5. Nhấn "Đăng nhập" để hoàn tất quá trình đăng nhập.
+
+
+---
+
+# 4 Đăng nhập Ngân Hàng Trực Tuyến
+
+## Đăng nhập thành công
+
+> **4** Tài khoản của Quý khách sẽ được hiển thị tại đây
+
+![HSBC Online Banking](https://www.hsbc.com.vn/content/dam/hsbc/vn/images/online-banking/online-banking-login.jpg)
+
+Quý khách có thể xem thông tin về **3 giao dịch gần đây nhất**.
+
+Mục **Truy cập nhanh** hỗ trợ Quý khách sử dụng các tính năng sau nhanh chóng và thuận tiện hơn:
+
+1. Thanh toán và chuyển khoản
+2. Quản lý giao dịch chuyển khoản trong tương lai
+3. Xem bảng sao kê điện tử
+4. Quản lý danh sách tài khoản thụ hưởng
+5. Mở tài khoản tiền gửi có kỳ hạn
+
+Và còn nhiều tính năng hữu ích khác đang chờ Quý khách.
+
+---
+```
+![HSBC Logo](https://www.hsbc.com/-/media/hsbc-com/images/hsbc-logo.png)
+
+*Trở về mục lục*

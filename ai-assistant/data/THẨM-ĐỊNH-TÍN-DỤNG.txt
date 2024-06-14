@@ -1,0 +1,934 @@
+# Bài giảng
+# THẨM ĐỊNH TÍN DỤNG TẠI NHCSXH
+
+## I. TỔNG QUAN VỀ THẨM ĐỊNH TÍN DỤNG
+
+### 1. Khái niệm thẩm định tín dụng
+
+Tín dụng là một hoạt động truyền thống, đem lại lợi nhuận chủ yếu cho các ngân hàng. Do đó, việc thẩm định khách hàng trước khi cho vay được các ngân hàng rất quan tâm và luôn tìm cách nâng cao chất lượng. Có rất nhiều quan điểm về thẩm định tín dụng. Theo quan điểm của BIS (Ngân hàng thanh toán quốc tế) thì thẩm định tín dụng là quá trình đánh giá nhằm đảm bảo sự hiểu biết thông suốt về người vay, mục đích và cơ cấu khoản vay cũng như nguồn thanh toán khoản cho vay; còn theo quan điểm của IBRD (Ngân hàng tái thiết và phát triển quốc tế thuộc Ngân hàng thế giới) thì thẩm định tín dụng là quá trình xem xét liệu tiền cho vay ra có được hoàn trả lại không và liệu người vay có sẵn lòng thiện chí trả nợ hay không. Gần đây nhất, theo Adam Barone, 2020, thẩm định tín dụng là công việc mà nhà đầu tư hoặc người cho vay thực hiện đối với các công ty, chính phủ, các tổ chức phát hành nợ hoặc người đi vay để đo lường khả năng của các công ty, chính phủ, tổ chức phát hành, người đi vay trong việc đáp ứng các nghĩa vụ nợ của mình. Công việc thẩm định tín dụng nhằm xác định mức độ rủi ro và có thể thích hợp liên quan đến các người vay cụ thể.
+
+Tóm lại, thẩm định tín dụng là hoạt động xem xét, đánh giá mọi mặt về khách hàng và hồ sơ vay vốn của khách hàng để làm cơ sở ra quyết định cho vay hay không cho vay.
+
+### 2. Tầm quan trọng của thẩm định tín dụng
+
+Thẩm định tín dụng là một bước rất quan trọng giúp ngân hàng hạn chế tình trạng rủi ro trong cho vay do nguyên nhân từ phía khách hàng, từ phía môi trường vĩ mô, cũng như từ chính ngân hàng. Trước khi đưa ra các quyết định tín dụng của mình, cán bộ tín dụng rất cần phải có những phân tích đánh giá chính xác, kịp thời trên cơ sở nguồn thông tin đa dạng, đầy đủ về khách hàng và vay vốn. Việc phân tích tín dụng này sẽ giúp ngân hàng hiểu khả năng hiện tại và tiềm tàng của khách hàng về sử dụng vốn tín dụng, cũng như khả năng hoàn trả vốn vay ngân hàng. Cụ thể:
+
+- Thứ nhất, công tác thẩm định tín dụng hạn chế tình trạng thông tin không cân xứng. Thông tin không chính xác, sai lệch sẽ khiến cho ngân hàng đánh giá sai khách hàng và dẫn tới đưa ra quyết định sai lầm như lựa chọn khách hàng có rủi ro cao hoặc từ chối khách hàng có tiềm năng, an toàn. Do đó, nếu ngân hàng làm tốt công tác phân tích tín dụng thì sẽ có thể đánh giá chính xác và đầy đủ về khách hàng thì ngân hàng sẽ lựa chọn khách hàng chính xác và giảm rủi ro tín dụng.
+
+- Thứ hai, thẩm định tín dụng đánh giá chính xác mức độ rủi ro của khách hàng. Phân tích đánh giá khách hàng thông qua việc phân tích, đánh giá báo cáo tài chính, ngành nghề kinh doanh, uy tín khách hàng, phương án vay vốn giúp ngân hàng...
+---
+
+ngân hàng hiểu khách hàng hơn.
+
+Đánh giá được những thuận lợi, khó khăn, điểm mạnh điểm yếu của khách hàng từ đó sẽ đánh giá, lường trước được mức độ rủi ro của từng khoản vay. Trên cơ sở đó ngân hàng sẽ định giá được khoản tín dụng, xác định lãi suất cho vay, trích lập dự phòng rủi ro và giám sát tín dụng sau này.
+
+Thứ ba, thẩm định tín dụng nhằm đánh giá chính xác nhu cầu vay vốn khách hàng. Cùng qua phân tích cán bộ tín dụng sẽ biết được nhu cầu vay vốn, mục đích vay vốn... của khách hàng. Đây là cơ sở để ngân hàng thiết kế các sản phẩm tín dụng phù hợp với nhu cầu của khách hàng như qui mô khoản vay, phương thức hoàn trả, kì hạn hoàn trả.
+
+## 3. Nguồn thông tin trong thẩm định tín dụng
+
+Cán bộ ngân hàng sẽ khai thác tối đa các nguồn thông tin để quá trình thẩm định tín dụng đạt được hiệu quả cao nhất. Không có một khuôn mẫu chung về các nguồn thông tin được sử dụng mà nó sẽ phụ thuộc vào quy mô, thời hạn của khoản vay, tính chất của khách hàng, quan hệ giữa khách hàng và ngân hàng cũng như các mối quan hệ của chính cán bộ tín dụng. Nhưng trong thực tế, thông thường các ngân hàng có thể kiếm được thông tin về khách hàng từ: hồ sơ vay vốn, qua phỏng vấn người xin vay, sổ sách của ngân hàng, các nguồn tin bên ngoài, qua điều tra địa điểm kinh doanh của người vay...
+
+### 3.1. Hồ sơ vay vốn
+
+Những tài liệu trong hồ sơ vay vốn được chuẩn bị bởi chính khách hàng dưới sự hướng dẫn của cán bộ ngân hàng. Sự đầy đủ trung thực trong các giấy tờ này là căn cứ đầu tiên để hiện nhu cầu vốn tín dụng cũng như tính tự nguyện, thiện chí trong đề nghị cấp tín dụng của khách hàng.
+
+#### 3.1.1. Hồ sơ vay vốn của khách hàng doanh nghiệp
+
+*(Đây chỉ là một số gợi ý cho cán bộ tín dụng, các khách hàng khác nhau có thể sẽ có những giấy tờ khác nhau. Thậm chí cùng 1 khách hàng nhưng các mục đích vay khác nhau thì ngân hàng cũng yêu cầu những giấy tờ khác nhau trong bộ hồ sơ vay vốn)*
+
+a) Giấy đề nghị vay vốn: theo mẫu cụ thể của từng ngân hàng
+
+b) Hồ sơ pháp lý:
+- Quyết định hoặc giấy phép thành lập doanh nghiệp.
+- Điều lệ doanh nghiệp.
+- Quyết định bổ nhiệm Tổng Giám đốc (Giám đốc), kế toán trưởng.
+- Giấy chứng nhận đăng ký kinh doanh, giấy phép hành nghề (nếu có).
+- Giấy chứng nhận vốn ban đầu (bàn giao vốn).
+- Giấy ủy quyền cho cá nhân trong quan hệ vay vốn với ngân hàng.
+- Giấy tờ khác theo quy định của pháp luật.
+
+---
+c) Hồ sơ kinh tế:
+
+- Báo cáo tài chính: Bảng cân đối kế toán, báo cáo kết quả hoạt động kinh doanh, báo cáo lưu chuyển tiền tệ, thuyết minh báo cáo tài chính. Thông thường các ngân hàng thường yêu cầu doanh nghiệp nộp báo cáo tài chính trong 3 năm gần nhất.
+
+- Tài liệu thuyết minh vay vốn
+  + Đối với vay vốn lưu động: phương án sản xuất kinh doanh (SXKD); kế hoạch vay vốn - trả nợ; các giấy tờ khác liên quan (hợp đồng mua bán hàng hóa, dịch vụ; giấy phép xuất nhập khẩu).
+  + Đối với vay vốn trung, dài hạn: quyết định phê duyệt dự án đầu tư; thiết kế kỹ thuật, tổng dự toán; báo cáo tác động môi trường; tài liệu chứng minh nguồn cung cấp nguyên liệu thị trường của dự án; quyết định giao đất, cho thuê đất, hợp đồng thuê đất, nhà xưởng; các tài liệu liên quan đến thực hiện dự án…
+
+d) Hồ sơ bảo đảm tiền vay: giấy tờ gốc chứng nhận quyền sở hữu tài sản, giấy chứng nhận quyền sử dụng đất, hợp đồng bảo hiểm tài sản (nếu có) theo quy định …
+
+### 3.1.2. Hồ sơ vay vốn của khách hàng cá nhân
+
+- Giấy đề nghị vay vốn (lập theo mẫu của ngân hàng)
+- Hồ sơ pháp lý: Chứng minh nhân dân, căn cước công dân, hộ chiếu; Hộ khẩu; Giấy đăng kí kết hôn.
+- Hồ sơ kinh tế: Hợp đồng lao động; Quyết định lương, sao kê lương; Giấy tờ chứng minh thu nhập khác (nếu có).
+- Hồ sơ bảo đảm tiền vay: giấy tờ gốc chứng nhận quyền sở hữu tài sản, giấy chứng nhận quyền sử dụng đất, hợp đồng bảo hiểm tài sản (nếu có)…
+
+### 3.2. Phỏng vấn khách hàng có nhu cầu vay vốn
+
+Thông qua cuộc phỏng vấn khách hàng, cán bộ tín dụng sẽ có cơ hội đánh giá tính cách, sự an toàn, đáng tin cậy của khách hàng vay vốn. Bằng kỹ năng và kinh nghiệm của mình, cán bộ tín dụng cần phải khuyến khích khách hàng thể hiện và bộc lộ những thông tin chân thực nhất về con người, về doanh nghiệp của họ, về phương án vay vốn cũng như kế hoạch trả nợ. Cán bộ tín dụng cần lắng nghe để đưa ra những cảm nhận chính xác về khách hàng cũng như phương án, kế hoạch vay vốn.
+
+Qua phỏng vấn khách hàng đề nghị vay vốn, cán bộ tín dụng cần tìm hiểu lý do vay vốn, đánh giá xem yêu cầu vay có hợp pháp, có đáp ứng được những yêu cầu trong chính sách cho vay của ngân hàng đưa ra hay không. Qua buổi phỏng vấn, cán bộ tín dụng sẽ đưa ra được nhận định về sự trung thực của khách hàng vay vốn, tính hiệu quả của phương án, dự án vay và đưa ra ý kiến liên quan đến yêu cầu đối với tài sản bảo đảm cho khoản vay. Cán bộ tín dụng có kinh nghiệm thậm chí còn khai thác được thông tin về lịch sử hoạt động và kế hoạch phát triển của khách hàng.
+---
+Sự thành công của buổi phỏng vấn phụ thuộc khá lớn vào kỹ năng của người phỏng vấn. Vì vậy, người phỏng vấn cần phải có các kỹ năng sau:
+
+- Xác định rõ mục đích và tầm quan trọng của cuộc phỏng vấn
+- Biết cách quan sát, đánh giá qua tác phong và cử chỉ của người được phỏng vấn
+- Biết cách đặt câu hỏi: Nên kết hợp giữa các câu hỏi mức độ dễ (câu hỏi về các sự kiện) và các câu hỏi khó (để đánh giá hiểu biết của khách hàng hoặc khả năng suy luận)
+- Lựa chọn hình thức phỏng vấn phù hợp: Phỏng vấn chung, phỏng vấn theo nhóm…
+- Lựa chọn cách thức phỏng vấn: Phỏng vấn trực tiếp hoặc qua điện thoại.
+- Chuẩn bị bảng hỏi: Biết cách sử dụng linh hoạt các loại câu hỏi như:
+
+  + Câu hỏi đóng, câu hỏi mở. Trong đó câu hỏi đóng là câu hỏi chỉ có một phương án trả lời (Ví dụ: Họ gia đình anh/chị bắt đầu trồng cây ăn quả quy mô lớn từ năm nào?); câu hỏi mở là câu hỏi có thể có nhiều phương án trả lời (Ví dụ: Theo anh chị, trong vòng 2 năm tới, nhu cầu của thị trường sẽ thay đổi như thế nào?).
+
+  + Câu hỏi dẫn dắt: Nhằm động viên khách hàng nói nhiều hơn về bản thân, về kinh nghiệm, phương án vay vốn của họ… (Ví dụ: Hãy nói cho tôi biết công ty của anh bắt đầu như thế nào? Anh nghĩ thế nào về việc sử dụng ngôi nhà của anh làm thế chấp cho khoản vay?)
+
+  + Câu hỏi giả định: Được đưa ra để cán bộ tín dụng hiểu được phương án xử lý của khách hàng trong những tình huống xấu hơn dự kiến. (Ví dụ: Anh sẽ làm gì nếu nhà cung cấp chính của anh ngừng hoạt động?)
+
+  + Câu hỏi thử thách: Nhằm mục đích xem khách hàng có hiểu biết cặn kẽ về phương án, dự án vay hay không (Ví dụ: Anh có những giải pháp gì khác để có thể giúp chúng tôi ủng hộ phương án của anh không? Anh có thể nhìn thấy được những rủi ro gì có thể xảy ra cho phương án của anh?)
+
+  + Câu hỏi phản ánh: Là loại câu hỏi được sử dụng để thể hiện cán bộ tín dụng đang lắng nghe một cách rất tích cực những thông tin của khách hàng. (Ví dụ: Nếu tôi hiểu đúng lời anh thì anh đang chờ đợi 50% tăng trưởng doanh số bán hàng trong 2 năm tới?)
+
+- Cùng với việc phỏng vấn, cán bộ tín dụng cần phải quan sát và diễn giải ngôn ngữ không lời thể hiện qua nét mặt, cử chỉ, cách trả lời câu hỏi của khách hàng.
+
+## 3.3. Kiểm tra thực tế cơ sở sản xuất kinh doanh của khách hàng vay vốn
+
+### 3.3.1. Với khách hàng doanh nghiệp, cơ sở sản xuất kinh doanh
+
+Khi xuống thực tế tại cơ sở sản xuất kinh doanh của khách hàng, cán bộ tín dụng sẽ đánh giá được:
+
+- Doanh nghiệp hoạt động như thế nào?
+- Cơ sở sản xuất kinh doanh trông như thế nào, có sạch sẽ hay không? Có giống như mô tả của khách hàng không?
+---
+- Máy móc có được bố trí tốt không? Có quá nhiều máy móc đối với khối lượng công việc đang phải làm hay không?
+- Hàng hoá có đầy đủ và sạch sẽ hay không?
+- Nhân viên có làm việc với tốc độ bình thường hay không?
+- Mối quan hệ giữa người chủ và nhân viên như thế nào?
+- Khách hàng có được phục vụ nhanh chóng không? Khách hàng có mua sản phẩm của doanh nghiệp không?
+
+### 3.3.2. Với khách hàng cá nhân, hộ gia đình:
+Cán bộ tín dụng sẽ tìm kiếm thêm thông tin khi đến thăm hỏi tại nơi ở, nơi làm việc của khách hàng để đánh giá không khí, môi trường làm việc và sinh hoạt hàng ngày của khách hàng vay vốn.
+
+### 3.4. Các nguồn thông tin bên ngoài về tín dụng
+- Trung tâm thông tin là nơi cung cấp những nguồn tin đáng tin cậy về tình hình hoạt động của doanh nghiệp, trên cơ sở phải trả chi phí.
+- Ngân hàng cũng có thể thu thập và kiểm tra thông tin thông qua các bạn hàng của người đề nghị vay vốn (những doanh nghiệp cung cấp nguyên vật liệu đầu vào và tiêu thụ sản phẩm).
+- Thông qua mối quan hệ của cán bộ tín dụng, có thể tìm hiểu thông tin của người đề nghị vay vốn thông qua các công ty hoặc các cơ quan hệ giao dịch để bổ sung thông tin về tình hình thanh toán nợ của doanh nghiệp.
+- Ngân hàng cũng có thể tham khảo thêm các nguồn thông tin của các tổ chức có liên quan khác như: Cơ quan chủ quản, cơ quan thuế, hải quan, quản lý thị trường, cơ quan quản lý nhà đất, địa chính, thông tin từ thị trường...
+- Với khách hàng cá nhân những thông tin thu thập có thể xem xét từ các mối quan hệ xung quanh của khách hàng như: Gia đình họ hàng, làng giềng, đồng nghiệp và những người có liên quan khác.
+
+### 3.5. Thông tin lưu trữ tại chính ngân hàng
+Ngân hàng có thể lưu trữ hồ sơ tập trung của cả khách hàng gửi tiền và vay tiền, từ đó có thể chiết xuất ra các thông tin hữu ích cho quá trình thẩm định tín dụng về lịch sử vay vốn hoặc khả năng tài chính của khách hàng thông qua các tài khoản tiền gửi của họ.
+
+### 4. Quy trình thẩm định tín dụng tại NHCSXH
+Nhìn chung, về quy trình tín dụng, NHCSXH cũng như nhiều NHTM tại Việt Nam khác đều sử dụng quy trình với đầy đủ những bước cơ bản như: Tiếp nhận và lập tờ trình tín dụng; phân tích và thẩm định tín dụng; ký kết hợp đồng tín dụng; giải ngân; giám sát; quản lý sau khi cấp tín dụng; và cuối cùng là thanh lý hợp đồng tín dụng. Trong đó, mọi công việc từ khi bắt đầu khoản vay cho đến khi ra quyết định cho vay cuối cùng đều liên quan mật thiết đến thẩm định tín dụng. Như vậy, để đánh giá công tác thẩm định tín dụng ta cần xem xét quy trình đầy đủ các bước này, thẩm định trước khi cho vay tức là ngoại trừ bước giải ngân.
+---
+# 4.1. Quy trình thẩm định đối với phương thức cho vay trực tiếp có ủy thác một số nội dung công việc cho Hội, đoàn thể
+
+Các bước được thực hiện như sau: Khi người vay có nhu cầu vay vốn tại NHCSXH, sẽ viết giấy đề nghị vay vốn gửi Ban quản lý Tổ TK&VV (gọi tắt là Tổ) tại thôn, tổ dân phố, nơi người vay vốn đang cư trú hợp pháp. Nếu người xin vay vốn chưa là tổ viên của Tổ thì Tổ sẽ họp để kết nạp bổ sung tổ viên.
+
+Các bước thẩm định được thực hiện như sau:
+
+**Bước 1:** Ban quản lý Tổ phối hợp với Hội, đoàn thể nhận ủy thác tiến hành thẩm định người vay vốn đối với các nội dung: đối tượng và điều kiện vay vốn, mục đích vay vốn, thời gian cho vay, mức cho vay, kiểm tra các yếu tố trên hồ sơ vay vốn... Đây được coi là bước thẩm định đầu tiên trong phương thức cho vay ủy thác.
+
+**Bước 2:** Sau khi thực hiện thẩm định các nội dung tại Bước 1, Ban quản lý Tổ phối hợp cùng Hội, đoàn thể nhận ủy thác cấp xã tổ chức họp Tổ bình xét cho vay, với sự tham gia, chứng kiến của Trưởng thôn. Các thành viên tham gia họp Tổ có ý kiến về các nội dung liên quan bình xét vay vốn cho các tổ viên trong Tổ, biểu quyết thông qua các nội dung về họ tên người vay, mục đích vay, số tiền và thời hạn vay. Trên cơ sở kết quả cuộc họp bình xét cho vay, Ban quản lý Tổ lập Danh sách đề nghị vay vốn NHCSXH theo mẫu số 03/TD kèm Giấy đề nghị vay vốn và các Giấy tờ liên quan (nếu có) để trình UBND cấp xã xác nhận để gửi đến NHCSXH nơi cho vay.
+
+**Bước 3:** NHCSXH nơi cho vay tiếp nhận hồ sơ vay vốn từ Tổ, phân công cán bộ tín dụng theo dõi địa bàn thực hiện việc thẩm định đối với hồ sơ vay vốn do Tổ gửi lên.
+
+Cán bộ tín dụng được phân công thực hiện việc tập hợp hồ sơ vay vốn từ Tổ, kiểm tra, đối chiếu tính hợp pháp, hợp lệ của hồ sơ vay vốn. Công việc thẩm định hồ sơ vay vốn tại bước này là bước thẩm định lại sau khi Tổ và Hội, đoàn thể đã tiến hành thẩm định lần đầu.
+
+# 4.2. Quy trình thẩm định đối với phương thức cho vay trực tiếp tới khách hàng vay vốn
+
+Đối với phương thức cho vay trực tiếp, hoạt động thẩm định được thực hiện bởi cán bộ tín dụng được Giám đốc NHCSXH nơi cho vay phân công. Các bước thẩm định được tiến hành như sau:
+
+**Bước 1:** Tiếp nhận, xem xét hồ sơ vay vốn trực tiếp của khách hàng và thu thập thông tin cần thiết.
+
+- Cán bộ tín dụng tiếp nhận thông tin về nhu cầu vay vốn của khách hàng.
+---
+như mục đích vay vốn, nhu cầu vốn của phương án/dự án, số tiền xin vay, thời hạn vay; tư vấn, giải thích rõ cho khách hàng chương trình tín dụng phù hợp với đối tượng, điều kiện, nhu cầu của người vay vốn.
+
+- Trường hợp khách hàng thuộc đối tượng thụ hưởng chính sách, có nhu cầu vay vốn phù hợp với quy định của chương trình, cán bộ tín dụng hướng dẫn khách hàng lập đề nghị vay vốn và cung cấp các hồ sơ, giấy tờ cần thiết để phục vụ cho quá trình thẩm định và lập báo cáo thẩm định của mình; kiểm tra tính đầy đủ của hồ sơ vay vốn và lập phiếu tiếp nhận.
+
+### Bước 2: Phân tích, thẩm định và lập báo cáo thẩm định
+
+- Cán bộ tín dụng được phân công kiểm tra hồ sơ vay vốn, đối chiếu với các quy định trong văn bản hướng dẫn nghiệp vụ cho vay và các văn bản liên quan của NHCSXH.
+
+- Căn cứ vào thông tin khách hàng cung cấp, dự án/phương án đề nghị vay vốn, cán bộ thẩm định có thể sử dụng kết hợp nhiều nguồn thông tin khác như: hồ sơ vay vốn, phỏng vấn, gặp gỡ trao đổi trực tiếp với khách hàng, điều tra thực địa (xuống kiểm tra thực tế tình hình sản xuất kinh doanh của khách hàng) kết hợp các nguồn thông tin khác từ bạn hàng, đối thủ cạnh tranh, các Ngân hàng, qua CIC, các cơ quan quản lý... để phân tích, đánh giá khách hàng và lập Báo cáo thẩm định theo các nội dung:
+
+  + Thông tin cơ bản.
+
+  + Phân tích định tính: Lịch sử phát triển, năng lực của người điều hành, mặt hàng và dịch vụ kinh doanh, nhà cung ứng chủ yếu, người tiêu thụ chủ yếu, điều tra thực địa.
+
+  + Phân tích định lượng: Tính toán lỗ - lãi, đối chiếu tài sản có và tài sản nợ, tình hình sử dụng lao động.
+
+  + Đánh giá nội dung dự án và nhu cầu vay vốn: Nội dung dự án, phương án sử dụng lao động, hiệu quả dự án và dự báo thu - chi tiền mặt sau khi vay vốn, tổng nguồn vốn thực hiện dự án, thời điểm thực hiện dự án, nguồn tiền trả nợ Ngân hàng, tài sản bảo đảm tiền vay.
+
+  + Kết luận chung và đề nghị cho vay.
+
+### Bước 3: Trình Báo cáo thẩm định
+
+Cán bộ tín dụng trình Trưởng phòng Kế hoạch - Nghiệp vụ (KHNV) tín dụng/Tổ trưởng KHNV hồ sơ vay vốn và Báo cáo thẩm định. Trưởng phòng KHNV tín dụng/Tổ trưởng KHNV kiểm soát hồ sơ vay vốn, thực hiện thẩm định lại (nếu thấy cần thiết), sau đó trình Giám đốc xem xét, ký duyệt hồ sơ trình cấp có thẩm quyền ra quyết định phê duyệt cho vay (theo quy định của từng chương trình tín dụng). Trường hợp không phê duyệt cho vay, gửi khách hàng thông báo từ chối cho vay, nêu rõ lý do từ chối.
+---
+
+Thực tế hoạt động tại NHCSXH, không phân cấp thẩm quyền phê duyệt cho vay, mọi hoạt động thẩm định tín dụng và phê duyệt cho vay đều diễn ra tại NHCSXH nơi cho vay, không tổ chức thành lập bộ phận thẩm định riêng, cán bộ tín dụng theo dõi địa bàn trực tiếp là cán bộ thẩm định hồ sơ vay vốn của khách hàng. Trưởng phòng KHTV/ Tổ trưởng Tổ KHTV làm nhiệm vụ thẩm định lại (nếu cần thiết).
+
+## 5. Lập báo cáo thẩm định tín dụng
+
+Mặc dù có những điểm khác nhau giữa các ngân hàng, nhưng nhìn chung, các báo cáo thẩm định đều bao hàm những nội dung cơ bản sau:
+
+- Giới thiệu khách hàng
+- Thẩm định năng lực pháp lý
+- Thẩm định uy tín khách hàng
+- Thẩm định năng lực tài chính
+- Thẩm định năng lực kinh doanh
+- Thẩm định phương án, dự án vay vốn
+- Thẩm định bảo đảm tiền vay
+- Kết luận và kiến nghị của cán bộ thẩm định.
+
+## II. THẨM ĐỊNH TÍN DỤNG KHÁCH HÀNG CÁ NHÂN VÀ HỘ GIA ĐÌNH
+
+### 1. Thẩm định khách hàng cá nhân và hộ gia đình theo phương thức ủy thác
+
+#### 1.1. Nội dung công việc do các bên liên quan đến tín dụng chính sách xã hội thực hiện
+
+##### 1.1.1 Đối với Tổ TK&VV, Hội đoàn thể nhận ủy thác
+
+Sau khi tiếp nhận đề nghị vay vốn của người vay, Ban quản lý Tổ phối hợp với Hội, đoàn thể nhận ủy thác tiến hành thẩm định người vay vốn với các nội dung: đối tượng và điều kiện vay vốn, mục đích vay vốn, thời gian cho vay, mức cho vay, kiểm tra các yếu tố trên hồ sơ vay vốn,... Đây là bước thẩm định đầu tiên trong phương thức cho vay ủy thác. Các nội dung thẩm định như sau:
+
+###### a) Về đối tượng cho vay
+
+Ban quản lý Tổ cùng Hội, đoàn thể nhận ủy thác cấp xã kiểm tra, rà soát người vay có thuộc đối tượng thụ hưởng chính sách xã hội áp dụng để xét cho vay vốn theo quy định của từng chương trình cho vay làm cơ sở tổ chức họp Tổ bình xét cho vay.
+
+- Đối với những chương trình tín dụng quy định người vay vốn phải có tên trong Danh sách đối tượng thụ hưởng chính sách được cấp có thẩm quyền phê duyệt, thực hiện đối chiếu với Danh sách cụ thể. Ví dụ: Chương trình cho vay hộ nghèo, hộ cận nghèo thì đối chiếu người vay với danh sách hộ nghèo, hộ cận nghèo được UBND xã xác nhận thuộc danh sách hộ nghèo, hộ cận nghèo do Thủ tướng Chính phủ quy định từng thời kỳ...
+
+---
+- Chủ động trao đổi với Ban quản lý Tổ TK&VV, Trưởng thôn trên cùng địa bàn để rà soát, nắm bắt thông tin đã vay vốn tại NHCSXH của các thành viên trong hộ gia đình, tránh trường hợp vay chồng chéo, một hộ gia đình có nhiều người đứng tên vay, cho vay vượt mức theo quy định của từng chương trình tín dụng.
+
+- Kiểm tra các điều kiện vay vốn khác (nếu có) theo quy định của từng chương trình cho vay.
+
+### b) Về phương án sản xuất kinh doanh
+
+Trên Giấy đề nghị vay vốn của người vay sẽ thể hiện mục đích xin vay để đầu tư vào phương án sản xuất kinh doanh gì. Khi đó, Ban quản lý Tổ cùng Hội, đoàn thể nhận ủy thác cấp xã sẽ xem xét về mục đích đầu tư của người vay có phù hợp với tình hình thực tế nơi người vay sinh sống và làm việc hay không? Từ đó đánh giá sơ bộ doanh thu, chi phí, lợi nhuận của người vay vốn khi thực hiện phương án sản xuất kinh doanh, đánh giá dự án đầu tư, phù hợp tình hình thực tế, dự án chưa hiệu quả để khuyến nghị người vay vốn điều chỉnh phương án cho phù hợp trước khi bình xét và gửi ngân hàng.
+
+Đối với những dự án, phương án có tính chất phức tạp, Tổ sẽ phối hợp cùng với Hội đoàn thể nhận ủy thác cấp xã xuống trực tiếp gia đình người vay và nơi thực hiện dự án, phương án đầu tư để xem xét kỹ tình hình thực tế, sau đó mới tiến hành họp Tổ bình xét vay vốn.
+
+### c) Về thời gian xin vay
+
+Căn cứ vào chu kỳ sản xuất kinh doanh, vòng đời của đối tượng đầu tư, khả năng trả nợ của khách hàng, quy định thời hạn cho vay tối đa của chương trình và đề nghị của khách hàng, Ban quản lý Tổ cùng Hội, đoàn thể nhận ủy thác cấp xã xem xét, đề xuất thời gian cho vay phù hợp để Tổ họp bình xét thông qua.
+
+### d) Về mức vốn xin vay
+
+Căn cứ vào phương án sản xuất kinh doanh, vốn tự có, quy định mức cho vay tối đa của từng chương trình và đề nghị của người vay, Ban quản lý Tổ và Hội, đoàn thể cấp xã đánh giá, đề xuất mức cho vay phù hợp để Tổ họp bình xét thông qua.
+
+### đ) Về hồ sơ vay vốn
+
+Kiểm tra nội dung trên Giấy đề nghị vay vốn, Giấy ủy quyền và các giấy tờ khác (nếu có), đảm bảo nội dung được ghi đầy đủ, rõ ràng, có chữ ký theo quy định; hướng dẫn người vay hoàn thiện Giấy đề nghị vay vốn, bổ sung đầy đủ thông tin và nội dung phương án vay vốn, đảm bảo tính hợp pháp, hợp lệ của hồ sơ.
+
+#### 1.1.2 Đối với Trưởng thôn
+
+Trưởng thôn nắm bắt được hiện trạng số hộ trong thôn đã vay vốn, hộ vay thuộc Tổ TK&VV nào, hộ vay mới, hộ thuộc đối tượng thụ hưởng có nhu cầu vay vốn nhưng chưa được vay... để có ý kiến trong cuộc họp bình xét cho vay.
+
+#### 1.1.3 Đối với Ban giảm nghèo cấp xã
+
+
+---
+Trước khi trình UBND cấp xã xem xét, phê duyệt Danh sách hộ gia đình đề nghị vay vốn NHCSXH (Mẫu 03/TĐ), Ban giảm nghèo cấp xã có trách nhiệm rà soát/kiểm soát lại đối tượng đã được Tổ bình xét cho vay, đảm bảo đúng đối tượng thụ hưởng theo quy định.
+
+### 1.2. Nội dung công việc do NHCSXH nơi cho vay thực hiện (cán bộ tín dụng, Trưởng phòng/Tổ trưởng Kế hoạch nghiệp vụ, Giám đốc)
+
+NHCSXH nơi cho vay tiếp nhận hồ sơ vay vốn từ Tổ TK&VV, phân công cán bộ tín dụng theo dõi địa bàn thực hiện việc thẩm định đối với hồ sơ vay vốn do Tổ gửi lên.
+
+#### 1.2.1 Cán bộ tín dụng
+
+Cán bộ tín dụng được phân công thực hiện việc tập hợp hồ sơ vay vốn từ Tổ, kiểm tra, đối chiếu tính hợp pháp, hợp lệ của hồ sơ vay vốn của khách hàng về đối tượng và điều kiện vay vốn, mục đích sử dụng vốn vay, mức cho vay, thời hạn cho vay... theo quy định của từng chương trình. Công việc thẩm định hồ sơ vay vốn tại bước này là tái thẩm định sau khi Tổ TK&VV và Hội, đoàn thể đã thẩm định lần đầu.
+
+- Chủ động phối hợp với Trưởng thôn rà soát đối tượng thụ hưởng chính sách có nhu cầu vay vốn, trao đổi với người đáng tin cậy tại địa bàn để xác định thông tin về người đề nghị vay vốn, phương án sản xuất, kinh doanh và vật tư, tư liệu sản xuất (nếu có).
+
+- Trường hợp món vay lớn (trên 50 triệu đến 100 triệu đồng): trước khi Tổ hợp bình xét cho vay, cán bộ tín dụng phối hợp với Hội, đoàn thể nhận ủy thác, Trưởng thôn và Ban quản lý Tổ đánh giá phương án sử dụng vốn vay, kiểm tra vật tư, tư liệu sản xuất, khả năng thực hiện phương án (có thể lập thành Biên bản đánh giá, cam kết của người vay).
+
+#### 1.2.2 Trưởng phòng/Tổ trưởng Kế hoạch nghiệp vụ và Giám đốc
+
+Cán bộ tín dụng trình Trưởng phòng/Tổ trưởng KHNVP bộ hồ sơ vay vốn. Trưởng phòng/Tổ trưởng KHNVP kiểm soát hồ sơ vay vốn, thực hiện thẩm định lại (nếu thấy cần thiết), sau đó trình Giám đốc xem xét, phê duyệt cho vay (theo quy định của từng chương trình tín dụng). Trường hợp không phê duyệt cho vay, gửi khách hàng thông báo từ chối cho vay, nêu rõ lý do từ chối.
+
+### 2. Thẩm định khách hàng cá nhân, hộ gia đình theo phương thức trực tiếp
+
+#### 2.1. Thẩm định uy tín khách hàng
+
+Uy tín khách hàng trong quan hệ tín dụng là yếu tố vô cùng quan trọng, quyết định sự sẵn sàng trả nợ của khách hàng nói chung và sự nỗ lực của khách hàng trong việc thực hiện các điều khoản cam kết với ngân hàng nói riêng.
+
+Về uy tín của khách hàng cá nhân hay của hộ gia đình được thể hiện qua các đức tính như: sự thẳng thắn, tinh thần trách nhiệm, tính trung thực và sự nhất quán để xác định sự sẵn sàng trả nợ của họ. Trong toàn bộ quá trình thẩm định tín
+---
+```
+dụng, uy tín của khách hàng vay vốn luôn thể hiện sự quan trọng hàng đầu. Nếu một người vay không trung thực, đàng hoàng thì xác suất khách hàng không tuân thủ theo các điều khoản của hợp đồng tín dụng sẽ rất cao. Điều đó dẫn đến rủi ro tín dụng cũng như những tổn thất của ngân hàng.
+
+Tuy nhiên, xác định sự sẵn sàng trả nợ của khách hàng không phải là việc làm đơn giản. Đối với khách hàng là cá nhân, cách sống của người vay vốn, mối quan hệ, thái độ đối với những người xung quanh: gia đình, bạn bè, đồng nghiệp, việc thực hiện các nghĩa vụ,... có thể cho thấy phần lớn về tư cách đạo đức của họ. Cần bỏ thẩm định nên tìm kiếm thông tin về việc khách hàng có nộp thuế đúng quy định hay không, có hoàn trả các khoản vay đối với người quen, họ hàng đúng hẹn hay không... Đối với khách hàng là hộ gia đình, đạo đức, sự ngay thẳng của chủ hộ có thể cho thấy tương đối rõ nét uy tín của khách hàng.
+
+### 2.2. Thẩm định năng lực tài chính của khách hàng
+
+Trong cho vay doanh nghiệp, ngân hàng thường dựa trên báo cáo tài chính (bảng cân đối kế toán, báo cáo kết quả hoạt động kinh doanh và báo cáo lưu chuyển tiền tệ) để phân tích khách hàng. Trong cho vay khách hàng cá nhân và hộ gia đình, việc phân tích khả năng tài chính của người đi vay cũng hết sức cần thiết. Tuy nhiên, ngân hàng thường phải chủ động tìm hiểu để tính toán ra các số liệu như:
+
+- Các tài sản của khách hàng, nguồn hình thành tài sản, các khoản nợ của khách hàng, thời hạn còn lại của các khoản nợ đó. Cần bỏ thẩm định cần tính toán xem nếu cấp thêm khoản vay này cho khách hàng thì tỷ lệ nợ trên tổng nguồn lực của khách hàng là bao nhiêu? Có quá cao hay không?
+
+- Thu nhập của cá nhân vay vốn, thu nhập của hộ gia đình cũng như các thành viên trong hộ. Mức chi tiêu của cá nhân, hộ gia đình. Các nghĩa vụ tài chính hiện có của cá nhân, hộ gia đình.
+
+### 2.3. Thẩm định nhu cầu vay vốn, nguồn trả nợ của khách hàng
+
+#### 2.3.1. Thẩm định nhu cầu vay vốn, nguồn trả nợ của khách hàng vay vốn phục vụ đời sống, sinh hoạt
+
+a) Thẩm định nhu cầu vay vốn của khách hàng: Nhu cầu vay vốn phục vụ đời sống, sinh hoạt của cá nhân, hộ gia đình thường phụ thuộc 2 yếu tố:
+
+- Nhu cầu của khách hàng: Số tiền sử dụng để đi học; mua, thuê mua nhà ở xã hội; xây mới, cải tạo nhà để ở; công trình nước sạch và vệ sinh...
+
+- Vốn tự có của khách hàng
+
+b) Thẩm định nguồn trả nợ của khách hàng: Trong hoạt động cho vay vốn phục vụ đời sống, sinh hoạt đối với các cá nhân, hộ gia đình, nguồn trả nợ của khách hàng thường không ổn định, phụ thuộc nhiều yếu tố. Do đó việc đánh giá chính xác nguồn trả nợ có ý nghĩa rất quan trọng. Để đánh giá được nguồn trả nợ người cho vay cần xem xét các nguồn thu nhập của khách hàng cũng như những người có liên quan: có bảo đảm nguồn thu? Thu từ mỗi nguồn là bao nhiêu? Tính ổn định của từng nguồn? Giấy tờ chứng minh thu nhập có đáng tin cậy không? Cá
+```
+
+---
+
+nhân, hộ gia đình làm nghề gì; Gia đình có bao nhiêu thành viên, mức độ ổn định thu nhập của các thành viên trong hộ gia đình,... Ngoài ra xem xét các thu nhập từ các khoản tiền gửi tiết kiệm,...
+
+- Xem xét thực tế sử dụng các nguồn thu nhập của khách hàng? Các nghĩa vụ trả nợ hiện tại? Những nghĩa vụ này bao gồm những khoản như thanh toán khoản vay trả góp trước đó, và các khoản chi tiêu và nuôi con hàng tháng, ngoài những yêu cầu về thanh toán khoản nợ dự kiến cho ngân hàng. Đồng thời, ngân hàng cũng xem xét những chi tiêu bình thường hàng ngày, mức sống thói quen tiêu dùng của khách hàng.
+
+### 2.3.2. Thẩm định nhu cầu vay và nguồn trả nợ của khách hàng vay vốn sản xuất kinh doanh
+
+#### a) Thẩm định nhu cầu vay
+
+Nhu cầu vay vốn cho sản xuất kinh doanh của khách hàng chủ yếu phụ thuộc vào chi phí vốn cho sản xuất kinh doanh và số vốn tự có mà khách hàng có thể tham gia vào phương án, dự án.
+
+- Nhu cầu vốn cho sản xuất kinh doanh của khách hàng được tính toán dựa trên phương án/dự án sản xuất. Riêng đối với các khoản cho vay nhỏ, khách hàng chỉ cần cung cấp các thông tin liên quan đến ngành, nghề sản xuất như đất đai, lao động, loại cây trồng/vật nuôi và các điều kiện vật chất khác. Thông thường các thông tin này có thể ghi trực tiếp vào giấy đề nghị vay vốn.
+
+Các thông tin cần thiết làm cơ sở tính toán nhu cầu vốn của khách hàng. Ngân hàng tùy thuộc vào từng đối tượng vay, mục đích vay để tính toán nhu cầu vốn. Các tiêu chí cụ thể sẽ được thay đổi linh hoạt để phù hợp với điều kiện thực tế. Thông thường mục đích vay và đối tượng vay của các khách hàng trong cùng một địa phương hoặc một vùng là giống nhau; vì vậy ngân hàng cũng không gặp khó khăn trong việc suy đoán nhu cầu vay của khách hàng.
+
+Để việc khai báo thông tin được đơn giản và chính xác, ngân hàng nên xây dựng mẫu khai báo cụ thể và người khai chỉ cần điền vào hoặc đánh dấu tại những ô quy định.
+
+- Thẩm định vốn tự có của khách hàng:
+
+Việc khách hàng bỏ vốn tự có tham gia vào phương án, dự án vay vốn thể hiện thiện chí vay vốn, năng lực tài chính của khách hàng, đồng thời cũng góp phần đảm bảo việc trả nợ đúng thời hạn cam kết với ngân hàng. Đối với hộ gia đình vay vốn sản xuất nông nghiệp, vốn tự có của họ tham gia có thể ở dưới những hình thức như: Tiền mặt, các yếu tố sản xuất như giống, phân bón, sức kéo, đất thuộc quyền sử dụng của hộ gia đình, ngày công lao động... Tùy theo loại hình sản xuất cũng như quy mô sản xuất mà ngân hàng yêu cầu tỷ lệ tham gia vốn tự có nhiều hay ít. (Ví dụ: khi cho vay hộ nghèo vốn tự có chủ yếu là ngày công lao động, công chăm sóc vật nuôi, cây trồng...)
+
+#### b) Thẩm định nguồn trả nợ
+
+- Nguồn trả nợ chính của cá nhân hộ gia đình vay sản xuất kinh doanh chính
+
+---
+là thu nhập bằng tiền từ kết quả thực hiện phương án sản xuất kinh doanh được ngân hàng cho vay. Thu nhập dự kiến này phụ thuộc vào khối lượng sản phẩm tiêu thụ và giá bán dự kiến của sản phẩm. Vì vậy, khi đánh giá thu nhập cần đánh giá 2 khía cạnh:
+
++ Khả năng tiêu thụ sản phẩm dự kiến: Khách hàng có thể bán được hết sản phẩm sản xuất ra hay không? Điều này phụ thuộc vào chất lượng và mẫu mã sản phẩm; sản phẩm có thị trường tiêu thụ không; khả năng cạnh tranh của sản phẩm của họ như thế nào; sản phẩm có phù hợp với thị hiếu của người tiêu dùng hay không...
+
++ Giá bán sản phẩm dự kiến: Phương án có hiệu quả kinh tế khi thu nhập của phương án đủ bù đắp các chi phí và có lợi nhuận, hay nói cách khác thu nhập - chi phí phải là một số dương.
+
+- Ngoài ra còn có các nguồn khác kể cả thu nhập riêng các thành viên trong hộ góp vào để sử dụng chung. Trong trường hợp hộ nông dân vay vốn để tiến hành nhiều nghề như vừa trồng trọt, vừa chăn nuôi, thì những nguồn này đều có thể là nguồn trả nợ. Ví dụ: Hộ nông dân trồng lúa kết hợp với nuôi ao chuồng, hoặc trồng lúa, nuôi cá và trồng cây ăn quả (nhãn, chôm chôm, xoài ...)
+
+- Tuy nhiên, không phải toàn bộ thu nhập được dùng để trả nợ, mà là phần thu nhập còn lại, sau khi trừ đi các khoản chi phí hoặc chi tiêu thiết yếu của cá nhân, hộ gia đình. Cán bộ thẩm định khi xem xét thu nhập ròng còn lại của khách hàng dùng để trả nợ cho ngân hàng, cần phải xem xét đến các khoản chi tiêu thiết yếu của họ, bao gồm các nhu cầu về ăn, ở, đi lại, giáo dục, y tế ...
+
+Như vậy, tỷ trọng thu nhập dùng để trả nợ ngân hàng thường được xác định dựa vào: tình hình thu nhập của khách hàng (thu nhập chính, thường xuyên và thu nhập bổ sung từ vườn cây, ao cá...) và mức chi tiêu bình quân cần thiết của các cá nhân, hộ gia đình trong địa phương hoặc vùng.
+
+### III. THẨM ĐỊNH TÍN DỤNG KHÁCH HÀNG DOANH NGHIỆP
+
+#### 1. Thẩm định năng lực pháp lý
+
+Việc đánh giá năng lực pháp lý cho biết người vay có đủ khả năng chịu trách nhiệm trước pháp luật về việc thực hiện nghĩa vụ trả nợ cho ngân hàng hay không. Nếu khách hàng không có đủ năng lực pháp lý thì các văn bản ký kết giữa khách hàng và khách hàng sẽ không có giá trị pháp lý và như vậy, ngân hàng sẽ không được pháp luật bảo vệ khi người vay vi phạm các cam kết. Để đánh giá năng lực pháp lý của khách hàng doanh nghiệp cán bộ tín dụng cần kiểm tra tính đầy đủ và độ hồ sơ chứng minh năng lực pháp lý của khách hàng.
+
+*Những điểm cần lưu ý khi thẩm định năng lực pháp lý:*
+
+- Thẩm định tư cách đại diện theo pháp luật thông qua việc khách hàng cung cấp các văn bản, giấy tờ chứng minh khách hàng có đủ tư cách đại diện theo quy định của pháp luật.
+
+- Kiểm tra tên doanh nghiệp: Xem tên doanh nghiệp có thống nhất giữa các giấy tờ không tránh bị nhầm lẫn giấy tờ, sử dụng giấy tờ giả hoặc dùng giấy tờ đi 13
+---
+# - Kiểm tra địa chỉ doanh nghiệp (trụ sở chính):
+
+Khi điều tra thực địa phải đối chiếu lại tên, địa chỉ doanh nghiệp trên biển hiệu xem có khớp với các giấy tờ gửi đến ngân hàng không. Trường hợp không khớp phải xác minh rõ nơi đó có đúng là địa điểm kinh doanh của doanh nghiệp không, có giấy tờ của cơ quan có thẩm quyền cho phép thay đổi địa điểm, sửa đổi tên của doanh nghiệp không (theo quy định hiện hành của pháp luật). Điện thoại liên hệ: Ghi các số điện thoại liên lạc cần thiết dựa trên các tài liệu trong hồ sơ vay vốn và phải kiểm tra lại thực tế xem số điện thoại đó có tồn tại hay không.
+
+## 2. Thẩm định uy tín doanh nghiệp
+
+Để đánh giá uy tín của doanh nghiệp cần đánh giá thông qua người đứng đầu doanh nghiệp và văn hóa của doanh nghiệp đó. Cần tìm hiểu rõ về người vay vốn (chủ sở hữu, người điều hành hoặc người đại diện pháp nhân) về các khía cạnh: năng lực pháp luật, năng lực hành vi dân sự, quá trình học tập, đào tạo, tích lũy kinh nghiệm thực tế, khả năng tính toán...; những thành tích nổi bật trước đây trên các lĩnh vực kinh doanh, học tập của người đại diện. Có thể thông qua việc trao đổi, phỏng vấn trực tiếp với người đại diện, nhân viên, các đối tác, hàng xóm... Ví dụ, nếu khách hàng có tiếng là chậm trễ thanh toán cho các chủ nợ, tranh chấp các thương phiếu, hoặc có thái độ cầu thả đối với các nghĩa vụ hợp đồng... thì rất dễ sẽ có những đối xử tương tự như vậy đối với ngân hàng trong trường hợp khó khăn.
+
+## 3. Thẩm định năng lực kinh doanh
+
+Cán bộ tín dụng cần thẩm định lĩnh vực kinh doanh có phù hợp với tình hình hiện tại và tương lai, chủng loại sản phẩm sản xuất hoặc dịch vụ dùng cho đối tượng tiêu thụ nào, khả năng phát triển thị trường và đối thủ cạnh tranh từ đó đánh giá khả năng tồn tại và phát triển của khách hàng để có quyết định việc cho vay một cách chính xác.
+
+Khi đánh giá tình hình sản xuất của khách hàng phải so sánh với các doanh nghiệp khác cùng ngành nghề, cùng quy mô và với chính khách hàng trong các giai đoạn trước để thấy được những thành công, hạn chế của khách hàng trong thời gian qua, nguyên nhân dẫn đến sự thành công hay hạn chế đó từ đó đánh giá khả năng phát triển của khách hàng trong thời gian tới.
+
+Trên cơ sở áp dụng các nguồn điều tra, phân tích như: Điều tra thực địa, phỏng vấn, thu thập thông tin bên ngoài (từ các đối tác của doanh nghiệp, thông tin từ các phương tiện thông tin đại chúng, báo chí chuyên ngành...). Cán bộ tín dụng cần xem xét đến các khía cạnh sau:
+
+- **Lĩnh vực sản xuất, kinh doanh**: Cần xem xét lĩnh vực sản xuất, kinh doanh của khách hàng, hiểu biết và kinh nghiệm của khách hàng trong lĩnh vực đó (thường được thể hiện bằng các hợp đồng đã thực hiện hoặc doanh số của hoạt động kinh doanh này), những ưu thế của khách hàng trong lĩnh vực đó. Nếu là lĩnh vực sản xuất, kinh doanh mới cần tìm hiểu khả năng cạnh tranh hoặc khả năng chiếm lĩnh thị trường hoặc khả năng bán hàng... của khách hàng vay vốn.
+---
+- **Sản phẩm, dịch vụ**: Khách hàng sản xuất, kinh doanh mặt hàng gì, nhu cầu của xã hội về loại mặt hàng đó tại thời điểm xem xét và có thể dự báo trong tương lai, năng lực sản xuất và chất lượng sản phẩm, kinh nghiệm của khách hàng trong sản xuất, kinh doanh mặt hàng đó. Ưu thế của sản phẩm mà khách hàng đang sản xuất, kinh doanh so với các đối thủ khác như thế nào, kể cả phương thức bán hàng.
+
+- **Thị trường**: Tìm hiểu các thị trường chính và đối tác của doanh nghiệp (đầu vào và đầu ra), phương thức bán hàng và định hướng mở rộng thị trường trong tương lai, các hình thức hỗ trợ khách hàng, đại lý.
+
+- **Đối thủ cạnh tranh**: Xem xét các đối thủ cạnh tranh trực tiếp của doanh nghiệp, các lợi thế và hạn chế của doanh nghiệp so với các đối thủ.
+
+- **Cơ cấu tổ chức quản lý**: Cách tổ chức các phòng ban, chức năng và quyền hạn của từng phòng ban, phương thức quản lý... trong doanh nghiệp.
+
+- **Thiết bị, công nghệ và cơ sở vật chất**: Đối với các doanh nghiệp sản xuất phải xem xét đến công nghệ sản xuất đang sử dụng thuộc loại công nghệ nào, những ưu nhược điểm của công nghệ đó, máy móc thiết bị ra sao có đáp ứng được các yêu cầu của khách hàng, của thị trường về mẫu mã, chất lượng, số lượng không. Kiểm tra, đánh giá hiện trường về: văn phòng/chi nhánh/cửa hàng kinh doanh (địa chỉ, diện tích); nhà xưởng, kho bãi (số lượng, diện tích hoạt động). Đánh giá Dự án, phương án vay vốn: Đánh giá về diện tích nhà xưởng, kho bãi (diện tích mở rộng cải tạo, chi phí mở rộng cải tạo; đánh giá đầu tư trang thiết bị, máy móc (chủng loại, số lượng, giá trị); hàng tồn kho...
+
+Khi đánh giá tình hình sản xuất của khách hàng doanh nghiệp cần thiết phải so sánh với các doanh nghiệp khác cùng loại và với chính khách hàng trong các giai đoạn trước để thấy được những thành công, hạn chế của doanh nghiệp trong thời gian qua, nguyên nhân dẫn đến sự thành công hay hạn chế từ đó đánh giá khả năng phát triển dự án kinh doanh trong thời gian tới.
+
+Cán bộ tín dụng khi thẩm định nội dung này cần trả lời những câu hỏi sau:
+- Doanh nghiệp hoạt động như thế nào?
+- Khối lượng hàng hóa doanh nghiệp đang sản xuất.
+- Cơ sở vật chất như thế nào, có sạch sẽ, hiện đại không? Có giống mô tả của khách hàng không.
+- Tài sản khai trong bảng cân đối kế toán có thực sự tồn tại?
+- Máy móc được bố trí tốt không? Máy móc có phù hợp với quy mô của doanh nghiệp không?
+- Chất lượng hàng hóa mới sản xuất ra, hàng tồn kho như thế nào?
+- An toàn lao động có được thực thi không? Nhân viên làm việc với tốc độ thế nào?
+- Mối quan hệ giữa người chủ doanh nghiệp và nhân viên?
+---
+
+- Bao nhiêu khách hàng đã đến doanh nghiệp ký kết hợp đồng trong thời gian đó?
+
+- Khách hàng có được phục vụ nhanh chóng không?
+
+## 4. Thẩm định môi trường kinh doanh
+
+Một doanh nghiệp hoạt động chịu sự tác động của rất nhiều các yếu tố thuộc về môi trường kinh doanh như yếu tố kinh tế, văn hóa, công nghệ, sức ép cạnh tranh. Cán bộ phân tích khi đánh giá xem xét khách hàng phân chia các nhân tố thành hai nhóm nhân tố thuộc môi trường vĩ mô và môi trường vi mô.
+
+### 4.1. Môi trường vĩ mô
+
+Điều kiện kinh tế ảnh hưởng đến hoạt động kinh doanh và tình hình tài chính của các doanh nghiệp dưới nhiều cách thức khác nhau. Những điều kiện kinh tế - xã hội có ảnh hưởng tới khả năng trả nợ của người vay bao gồm:
+
+- **Sự biến động mang tính chu kỳ của nền kinh tế**: Vị trí của nền kinh tế trong chu kỳ kinh tế có ảnh hưởng rất quan trọng đến sự đánh giá của tổ chức tín dụng về xác suất rủi ro tín dụng. Khi nền kinh tế đang tăng trưởng và nhu cầu việc làm cao, hầu hết tất cả các khách hàng đều có thể trả nợ. Tuy nhiên, nếu nền kinh tế đang trong suy thoái, cầu giảm và thất nghiệp tăng, rủi ro tín dụng có xu hướng tăng lên. Các điều kiện kinh tế ảnh hưởng đến khả năng hoàn trả của người vay nhưng chúng thường vượt quá tầm kiểm soát của người vay lẫn ngân hàng cho vay. Nền kinh tế lệ thuộc vào những biến động ngắn hạn và dài hạn khác nhau về cường độ và trường độ. Những biến động này không bao giờ giống nhau, không phù hợp với khuôn mẫu nhất định và có thể ảnh hưởng đến các ngành kinh tế và các khu vực khác nhau trong nước với những mức độ khác nhau. Chính vì vậy ngân hàng cần phải thường xuyên quan sát thị trường, nghiên cứu kinh tế để có những dự báo về kinh tế và thông báo cho cán bộ tín dụng những thông tin dự báo này một cách kịp thời nhằm giúp cho họ có đánh giá chính xác hơn về rủi ro tín dụng.
+
+- **Sự thay đổi lãi suất thị trường**: Mức lãi suất cao thường là kết quả của chính sách thắt chặt tiền tệ của ngân hàng trung ương. Điều này không chỉ dẫn đến tình trạng khan hiếm nguồn vốn đầu tư, mà nói chung mức lãi suất cao thường gắn liền với mức rủi ro tín dụng cao hơn. Trong điều kiện giá vốn đắt, người đi vay có thể bị hấp dẫn bởi những dự án đầu tư mao hiểm nhưng hứa hẹn mang lại mức lợi nhuận cao hoặc chỉ những khách hàng có mức rủi ro cao mới sẵn sàng vay với mức lãi suất cao. Do vậy, cán bộ tín dụng cần hết sức thận trọng khi xem xét cho vay trong môi trường này.
+
+Ngoài ra, trong quá trình phân tích đánh giá về môi trường kinh doanh của doanh nghiệp, cán bộ tín dụng cần xem xét các yếu tố khác như: Sự biến động của các biến số kinh tế vĩ mô khác (tỷ giá, lạm phát...); yếu tố văn hóa, xã hội (sự thay đổi cơ cấu dân cư, tập quán tiêu dùng...); sự thay đổi pháp luật và chính sách của nhà nước; môi trường quốc tế (quá trình hội nhập kinh tế, tài chính khu vực và quốc tế...).
+
+Cán bộ tín dụng phải hiểu rõ những điều kiện này và xác định mức độ ảnh
+
+---
+hướng tới doanh nghiệp đang xem xét. Việc dự kiến được những thay đổi cơ bản hoặc đánh giá được xu thế cơ bản của các yếu tố trên sẽ giúp rất nhiều cho việc ra quyết định cho vay.
+
+### 4.2. Môi trường vi mô
+
+Nếu cán bộ tín dụng chuẩn bị cho vay đối với một doanh nghiệp thì một phần quan trọng trong quá trình ra quyết định cho vay là phân tích ngành mà doanh nghiệp hiện đang hoạt động và cạnh tranh.
+
+Khi đề cập tới đánh giá ngành kinh doanh trong phân tích tín dụng, nội dung quan trọng được nhấn mạnh đó chính là tình hình cạnh tranh trong ngành đó. Nếu áp lực cạnh tranh lớn, doanh nghiệp cần có những chiến lược tạo lợi thế cạnh tranh dài hạn: sản phẩm mới, sự khác biệt, thị phần, giải pháp tổng thể... Mặc dù những thông tin này không có tác động trực tiếp tới việc ra quyết định cho vay của ngân hàng song nó góp phần quan trọng tới chất lượng tín dụng trong tương lai.
+
+Một nhóm các doanh nghiệp sản xuất các sản phẩm có thể dễ dàng thay thế cho nhau gọi là một ngành. Theo quan điểm của M. Porter giáo sư nổi tiếng của Trường Quản trị kinh doanh Harvard, thì môi trường cạnh tranh được hình thành bởi năm yếu tố gọi là năm thế lực cạnh tranh. Những yếu tố này bao gồm: Sức ép của khách hàng, sức ép của nhà cung cấp, cường độ cạnh tranh giữa các đối thủ cạnh tranh, nguy cơ đe dọa của đối thủ mới, nguy cơ đe dọa của sản phẩm thay thế.
+
+Đối với kết hợp phân tích năng lực kinh doanh và môi trường kinh doanh các ngân hàng thường sử dụng mô hình SWOT. Trong báo cáo thẩm định, một số các ngân hàng thường chia rõ ràng điểm mạnh điểm yếu, cơ hội thách thức khi phân tích 2 nội dung trên.
+
+Phân tích SWOT là phân tích môi trường chiến lược bao gồm môi trường bên trong và môi trường bên ngoài của doanh nghiệp. Những nhân tố môi trường bên trong đối với một công ty thường được đánh giá những điểm mạnh, điểm yếu của công ty và những nhân tố môi trường bên ngoài thường để đánh giá những cơ hội và thách thức.
+
+Phân tích SWOT cung cấp thông tin nhằm đánh giá sự phù hợp của nguồn lực và năng lực của công ty đối với môi trường cạnh tranh mà công ty đang hoạt động hay không. Phân tích SWOT là một công cụ để công ty lựa chọn và hoạch định chiến lược.
+
+Phân tích SWOT là phân tích các yếu tố môi trường bên ngoài mà doanh nghiệp phải đối mặt (các cơ hội và nguy cơ) cũng như các yếu tố thuộc môi trường nội bộ doanh nghiệp (các mặt mạnh và mặt yếu). Đây là một việc làm khó đòi hỏi nhiều thời gian, công sức, chi phí, khả năng thu nhập, tổng hợp phân tích và xử lý thông tin sao cho hiệu quả nhất. Cần bố phân tích xác định các cơ hội và nguy cơ thông qua phân tích dữ liệu về thay đổi trong các môi trường: kinh tế, tài chính, chính trị, pháp lý, xã hội và cạnh tranh ở các thị trường nơi doanh nghiệp đang hoạt động hoặc dự định thâm nhập. Các cơ hội có thể bao gồm tiềm năng phát triển thị trường, khoảng trống thị trường, gắn nguồn nguyên liệu hay nguồn nhân
+---
+
+công rẻ và có tay nghề phù hợp. Các nguy cơ đối với doanh nghiệp có thể là thị trường bị thu hẹp, cạnh tranh ngày càng khốc liệt, những thay đổi về chính sách có thể xảy ra, bất ổn về chính trị ở các thị trường chủ chốt hay sự phát triển công nghệ mới làm cho các phương tiện và dây chuyền sản xuất của doanh nghiệp có nguy cơ trở nên lạc hậu. Với việc phân tích môi trường nội bộ của doanh nghiệp, các mặt mạnh về tổ chức doanh nghiệp có thể là các kỹ năng, nguồn lực và những lợi thế mà doanh nghiệp có được trước các đối thủ cạnh tranh (năng lực chủ chốt của doanh nghiệp) như có nhiều nhà quản trị tài năng, có công nghệ vượt trội, thương hiệu nổi tiếng, có sẵn tiền mặt, doanh nghiệp có hình ảnh tốt trong mắt công chúng hay chiếm thị phần lớn trong các thị trường chủ chốt. Những mặt yếu của doanh nghiệp thể hiện ở những thiếu sót hoặc nhược điểm và kỹ năng, nguồn lực hay các yếu tố hạn chế năng lực cạnh tranh của các doanh nghiệp. Đó có thể là mạng lưới phân phối kém hiệu quả, quan hệ lao động không tốt, thiếu các nhà quản trị có kinh nghiệm quốc tế hay sản phẩm lạc hậu so với các đối thủ cạnh tranh... Kết quả của quá trình phân tích SWOT phải đảm bảo được tính cụ thể, chính xác, thực tế và khả thi vì ngân hàng sẽ sử dụng kết quả đó để thực hiện những bước tiếp theo như: hình thành kế hoạch vay. Những nội dung trong kế hoạch cho vay tận dụng được các cơ hội bên ngoài và sức mạnh bên trong cũng như vô hiệu hóa được những nguy cơ bên ngoài và hạn chế hoặc vượt qua được những yếu kém của bản thân doanh nghiệp nhằm thực hiện hiệu quả vốn vay của Ngân hàng.
+
+## 5. Thẩm định tình hình tài chính và kết quả sản xuất kinh doanh
+
+Khi thẩm định về tư cách khách hàng, hồ sơ vay vốn và tình hình sản xuất kinh doanh của doanh nghiệp, cán bộ tín dụng phân tích, đánh giá trên phương diện định tính nhằm xác định thiện ý hoàn trả nợ của khách hàng đi vay. Còn nếu muốn xem xét khả năng thực tế của doanh nghiệp về tiềm lực tài chính, qua đó đánh giá được nguồn vốn chủ sở hữu, nguồn vốn chiếm dụng và vốn vay, hàng hóa tồn đọng, tài sản cố định cũng như tài sản lưu động của khách hàng, từ đó kết luận liệu khách hàng có thực sự đủ khả năng về mặt tài chính để trả nợ cho ngân hàng hay không, cán bộ tín dụng cần phải tiếp tục phân tích tình hình tài chính của doanh nghiệp thông qua các chỉ tiêu tín dụng.
+
+Tình hình tài chính phải được xem xét một cách tỉ mỉ và có hệ thống ít nhất trong hai năm liên tục (trừ trường hợp khách hàng mới thành lập) để rút ra kết luận tình hình tài chính có lành mạnh hay không. Phân tích khả năng tài chính của khách hàng là một khâu quan trọng trong quá trình thẩm định nhằm xem xét tình hình tài chính của khách hàng có lành mạnh, đảm bảo thực hiện được dự án, phương án sản xuất kinh doanh hiệu quả và đáp ứng được các điều kiện ngân hàng khi cho vay không.
+
+Sau khi xem xét báo cáo tài chính, cán bộ thẩm định sẽ tiến hành tính toán các chỉ số, chỉ tiêu định lượng liên quan, từ đó đưa ra được những nhận xét, đánh giá đúng đắn nhất về tình hình tài chính cũng như khả năng chi trả nợ vay của doanh nghiệp, cán bộ tín dụng tiến hành phân tích các hệ số cơ bản sau:
+
+---
+
+(i) Nhóm chỉ tiêu về khả năng thanh toán: Các chỉ tiêu này rất quan trọng khi thẩm định tình hình tài chính vì chúng giúp đánh giá khả năng trả nợ bằng nguồn tài chính thực tế của khách hàng.
+
+- Khả năng thanh toán tổng quát = Tổng tài sản / Nợ phải trả
+
+Nếu hệ số này < 1 là báo hiệu sự phá sản của DN, vốn chủ sở hữu mất toàn bộ, tổng số tài sản hiện có của DN (bao gồm cả tài sản ngắn hạn và tài sản dài hạn) không đủ trả số nợ mà DN phải thanh toán.
+
+- Khả năng thanh toán ngắn hạn = Tài sản lưu động / (Nợ ngắn hạn + Nợ dài hạn đến hạn phải trả) (1)
+
+Hệ số này cho biết mỗi đồng nợ ngắn hạn được bù đắp bằng bao nhiêu đồng tài sản ngắn hạn, đây là chỉ tiêu phản ánh tổng quát nhất khả năng chuyển đổi tài sản thành tiền để thanh toán nợ ngắn hạn cho doanh nghiệp.
+
+Hệ số thanh toán ngắn hạn < 1 là tài sản ngắn hạn không đủ bù đắp các khoản nợ ngắn hạn cho doanh nghiệp, hệ số thanh toán ngắn hạn > hoặc = 1 là tài sản ngắn hạn đủ để bù đắp các khoản nợ ngắn hạn cho doanh nghiệp.
+
+- Khả năng thanh toán nhanh = (Tài sản lưu động – hàng tồn kho) / (Nợ ngắn hạn + Nợ dài hạn đến hạn phải trả) (2)
+
+Hệ số này cho biết khả năng thanh toán nợ ngắn hạn của doanh nghiệp mà không cần phải thanh lý khẩn cấp hàng tồn kho (do: hàng tồn kho là tài sản có tính thanh khoản thấp hơn)
+
+Hệ số thanh toán nhanh > hoặc = 1 là doanh nghiệp có thể đáp ứng thanh toán ngay các khoản nợ hạn, hệ số thanh toán nhanh < 1 là doanh nghiệp sẽ không đủ khả năng thanh toán ngay lập tức toàn bộ khoản nợ ngắn hạn.
+
+- Khả năng thanh toán tức thời = Tiền / (Nợ ngắn hạn + Nợ dài hạn đến hạn phải trả) (3)
+
+Hệ số này hữu ích để đánh giá khả năng thanh toán của doanh nghiệp trong giai đoạn nền kinh tế gặp khủng hoảng, khi mà hàng tồn kho không tiêu thụ được, cũng như các khoản nợ phải thu khó hồi.
+
+Hệ số thanh toán tức thời > hoặc = 1: DN đảm bảo khả năng thanh toán tức thời các khoản nợ ngắn hạn, nếu hệ số thanh toán tức thời < 1 thì DN không đảm bảo khả năng thanh toán tức thời các khoản nợ ngắn hạn.
+
+- Khả năng thanh toán lãi vay = Lợi nhuận trước thuế và lãi / Lãi phải trả
+
+Hệ số khả năng thanh toán lãi vay dùng để đo lường mức độ lợi nhuận có được do sử dụng vốn để đảm bảo trả lãi cho chủ nợ. Hệ số này cho biết số vốn đi vay đã sử dụng tới mức độ nào và đem lại một khoản lợi nhuận là bao nhiêu, có đủ bù đắp lãi vay phải trả không. Tỷ số này càng cao càng tốt, nếu không đạt được mức tối thiểu là cho thấy dấu hiệu đáng lo ngại.
+
+---
+
+- Vốn lưu động ròng = (Vốn chủ sở hữu + nợ trung, dài hạn) - Tài sản cố định và đầu tư dài hạn (4)
+
+Chỉ tiêu vốn lưu động ròng là số vốn lưu động tự có mà doanh nghiệp thường xuyên có, đây là nguồn bổ sung của doanh nghiệp để thanh toán các khoản nợ khi đến hạn. Nếu vốn lưu động ròng của doanh nghiệp âm chứng tỏ doanh nghiệp đã dùng vốn ngắn hạn vào đầu tư tài sản cố định, điều này sẽ ảnh hưởng trực tiếp đến khả năng thanh toán của khách hàng.
+
+Khi áp dụng công thức (1) ta cần xem xét cụ thể từng khoản mục trong bảng tổng kết tài sản của cơ sở sản xuất, kinh doanh và loại bỏ các khoản hàng chậm luân chuyển, các khoản phải thu, tạm ứng khó đòi.
+
+Các khoản phải thu trong công thức (2) chỉ tính đến các khoản có khả năng thu hồi được trong ngắn hạn.
+
+(ii) Doanh thu: Cần phân tích tổng doanh thu về mức độ tăng trưởng và tỷ trọng doanh thu của mỗi loại mặt hàng. Qua phân tích doanh thu kết hợp với những phân tích trong phần thẩm định về tình hình sản xuất kinh doanh để rút ra kết luận về những thành công, hạn chế của doanh nghiệp trong việc tiếp cận thị trường và mở rộng hoạt động sản xuất kinh doanh. Mặt khác, cần phân tích tổng doanh thu của từng quý, từng tháng để xác định được những thời điểm hoạt động mạnh của doanh nghiệp và so sánh với hoạt động của cùng kỳ năm trước, điều này rất quan trọng, nhất là đối với những doanh nghiệp hoạt động sản xuất theo mùa vụ.
+
+(iii) Hiệu quả: Để đánh giá hiệu quả hoạt động sản xuất kinh doanh của doanh nghiệp có thể sử dụng một số chỉ tiêu sau đây.
+
+- Hiệu suất sử dụng tài sản = Tổng doanh thu/Tổng tài sản (5)
+
+Hệ số này cho ta biết mỗi đơn vị tài sản trong kỳ tạo ra bao nhiêu đơn vị doanh thu. Nếu tỷ số này càng cao chứng tỏ doanh nghiệp khai thác tốt lượng tài sản đang quản lý và ngược lại.
+
+- Hiệu suất sử dụng tài sản cố định = Tổng doanh thu/Giá trị còn tại của tài sản cố định (6)
+
+Chỉ tiêu này cho biết cứ một đồng nguyên giá bình quân tài sản cố định tham gia vào hoạt động kinh doanh thì tạo ra bao nhiêu đồng doanh thu thuần hoặc có thể làm ra bao nhiêu giá trị sản lượng.
+
+(iv) Lợi nhuận: Đây là chỉ tiêu tổng hợp nhất phản ánh hiệu quả hoạt động quá trình sản xuất kinh doanh của doanh nghiệp. Đặc biệt trong trường hợp doanh nghiệp hoạt động không hiệu quả (bị lỗ), cán bộ tín dụng phải tìm ra đầu là nguyên nhân gây lỗ, các biện pháp hạn chế và khắc phục lỗ trong thời gian tiếp theo.
+
+Trên cơ sở chỉ tiêu về lợi nhuận ta tính được các tỷ suất lợi nhuận và so sánh các thời kỳ với nhau cũng như so sánh với các doanh nghiệp khác trong
+
+---
+# 
+
+ngành nghề để đánh giá.
+
+- **Tỷ suất lợi nhuận/doanh thu = Lợi nhuận ròng/Tổng doanh thu (7)**
+
+  Chỉ số đo lường hiệu suất của doanh nghiệp bằng cách phân tích bao nhiêu phần trăm tổng doanh thu của doanh nghiệp thực sự được chuyển đổi thành lợi nhuận của công ty.
+
+- **Tỷ suất lợi nhuận/Vốn chủ sở hữu = Lợi nhuận ròng/Vốn chủ sở hữu (8)**
+
+  Chỉ số này cho biết hiệu quả của việc sử dụng vốn của doanh nghiệp, khả năng sinh lời của vốn và việc cắt giảm bớt chi phí để tăng lợi nhuận vì có nhiều cơ sở sản xuất, kinh doanh mặc dù tổng doanh thu tăng nhanh nhưng lợi nhuận tăng rất thấp hoặc không tăng, khi đó cần tìm hiểu và phân tích những nguyên nhân của hiện tượng trên.
+
+  Tuy nhiên, nhìn chung các doanh nghiệp (trừ doanh nghiệp nhà nước) khi báo cáo kết quả hoạt động kinh doanh thường phản ánh thấp hơn thực tế hoạt động để tránh nộp thuế thu nhập doanh nghiệp, nên khi tìm hiểu cần bám sát tình hình cung cầu khách hàng cung cấp báo cáo thực để có cơ sở phân tích một cách chính xác.
+
+(v) **Mức độ độc lập về tài chính**: Mức độ độc lập về tài chính cho chúng ta thấy khả năng tài chính của doanh nghiệp khi không có nguồn tài trợ từ bên ngoài. Nếu mức độ độc lập tài chính cao thì doanh nghiệp ít phụ thuộc vào nguồn vốn bên ngoài và mức độ rủi ro thấp. Tuy nhiên nếu doanh nghiệp chỉ hoạt động bằng vốn tự có thì sẽ bị hạn chế rất nhiều khả năng mở rộng kinh doanh và lợi nhuận. Để đánh giá mức độ độc lập về tài chính của doanh nghiệp ta thường căn cứ vào tỷ suất tự tài trợ. Tỷ suất tự tài trợ cho ta biết tỷ trọng nguồn vốn chủ sở hữu trong tổng nguồn vốn của doanh nghiệp.
+
+- **Tỷ suất tự tài trợ = Vốn chủ sở hữu/Tổng nguồn vốn (9)**
+
+  Tỷ suất tự tài trợ càng cao thì mức độ độc lập tài chính của doanh nghiệp càng cao và ngược lại.
+
+(vi) **Phân tích sự biến động về tài sản và nguồn vốn**: Trong quá trình hoạt động, tài sản và nguồn vốn của doanh nghiệp sẽ liên tục biến động cả về quy mô và cơ cấu.
+
+  Thông thường, khi tổng tài sản tăng chứng tỏ doanh nghiệp đang mở rộng sản xuất kinh doanh và kết quả là doanh thu, lợi nhuận cũng tăng theo. Trường hợp, tổng tài sản tăng nhưng doanh thu không tăng phải tìm hiểu nguyên nhân có thể do tài sản cố định mới đưa vào hoạt động hoặc doanh thu không tăng nhưng lợi nhuận tăng có thể do doanh nghiệp cắt giảm chi phí.... Những trường hợp tổng tài sản tăng mà doanh thu, lợi nhuận không tăng chứng tỏ hiệu quả sử dụng vốn của doanh nghiệp đang bị giảm sút giám phải tìm hiểu nguyên nhân và xu hướng thay đổi kèm theo các giải pháp.
+
+  Phân tích cơ cấu tài sản cho ta thấy mỗi loại tài sản chiếm tỷ trọng bao
+---
+
+nhiều trong tổng tài sản, mức độ biến động của mỗi loại tài sản trong kỳ để đánh giá chất lượng tài sản có của doanh nghiệp. Khi phân tích tài sản cần quan tâm đến mức độ đầu tư vào tài sản cố định.
+
+- Tỷ suất đầu tư = Giá trị còn lại của tài sản cố định/Tổng tài sản (10)
+
+Chỉ số này quan trọng đối với các doanh nghiệp hoạt động trong lĩnh vực sản xuất vì nó thể hiện được năng lực máy móc, thiết bị có đáp ứng được yêu cầu sản xuất hay không.
+
+Đối với các doanh nghiệp hoạt động trong lĩnh vực thương mại thì chỉ số này thường thấp.
+
+(vii) Các khoản nợ Ngân hàng: Qua việc xem xét các khoản nợ của doanh nghiệp với các ngân hàng khác (nếu có) phần nào thể hiện được uy tín của khách hàng trong quan hệ tín dụng, đồng thời đây là cơ sở để cân đối khả năng trả nợ khi tính toán thời gian vay.
+
+Khi xem xét các khoản nợ này đặc biệt quan tâm đến các khoản nợ khó đòi, nợ khoanh, nợ quá hạn (nếu có) và phải tìm hiểu, giải trình rõ nguyên nhân và biện pháp khắc phục.
+
+Nguồn cung cấp thông tin từ Trung tâm Thông tin tín dụng Quốc gia Việt Nam (CIC) theo nhu cầu thực tế đảm bảo hiệu quả, thiết thực.
+
+(viii) Các khoản phải thu, phải trả: Các khoản phải thu phụ thuộc vào đặc điểm kinh doanh và phương thức bán hàng của doanh nghiệp. Điều quan trọng khi xem xét các khoản phải thu là phải đánh giá khả năng thu hồi, đánh giá về mức độ uy tín của các bạn hàng và đặc biệt lưu ý đến các khoản nợ đọng kéo dài và các khoản dự phòng không thu được.
+
+Nợ phải trả là nguồn vốn chiếm dụng của các đối tác. Xét về mặt lợi ích thì doanh nghiệp không phải trả lãi cho nguồn vốn này nhưng nếu các khoản phải trả quá lớn thì có thể dẫn đến mất khả năng thanh toán. Đặc biệt, nếu doanh nghiệp có các khoản nợ dây dưa kéo dài thì cần xem xét lại uy tín.
+
+Cân đối các khoản phải thu với các khoản phải trả cho ta thấy doanh nghiệp là đối tượng bị chiếm dụng vốn hay là người đi chiếm dụng. Đây là một cơ sở để tính nhu cầu vốn của doanh nghiệp.
+
+(ix) Tồn kho: Cần xem xét tình hình biến động xuất - nhập và tồn kho cả nguyên liệu và hàng hoá của doanh nghiệp. Các số liệu này phản ánh chi tiết và chính xác tình hình kinh doanh của khách hàng, cho ta thấy mặt hàng nào nhập nhiều, mặt hàng nào nhập ít, mặt hàng nào dễ bán, mặt hàng nào khó bán, lượng tồn kho là bao nhiêu và đặc biệt cần tìm hiểu trong số hàng tồn kho có bao nhiêu là hàng ế chậm luân chuyển, bao nhiêu hàng kém chất lượng.
+
+(x) Chu kỳ kinh doanh: Việc xác định chu kỳ kinh doanh của DN giúp cho việc xác định được thời hạn vay trung bình cho các khoản vay ngắn hạn.
+
+---
+
+- Số vòng quay hàng tồn kho = Giá vốn hàng bán/Hàng tồn kho bình quân (11)
+
+Chỉ số này thể hiện khả năng quản trị hàng tồn kho hiệu quả như thế nào. Chỉ số vòng quay hàng tồn kho càng cao càng cho thấy doanh nghiệp bán hàng nhanh và hàng tồn kho không bị ứ đọng nhiều trong doanh nghiệp.
+
+- Số vòng quay các khoản phải thu = Doanh thu thuần/Các khoản phải thu bình quân (12)
+
+Vòng quay các khoản phải thu phản ánh tốc độ biến đổi các khoản phải thu thành tiền mặt. Hệ số này là một thước đo quan trọng để đánh giá hiệu quả hoạt động của doanh nghiệp.
+
+- Chu kỳ kinh doanh (ngày) = (360/Số vòng quay hàng tồn kho) + (360/Số vòng quay các khoản phải thu) (13)
+
+Số bình quân được lấy trung bình của đầu kỳ + cuối kỳ hoặc trung bình theo quý nếu khách hàng cung cấp báo cáo tài chính theo quý.
+
+Thông qua chỉ tiêu chu kỳ kinh doanh sẽ đánh giá được mức độ quay vòng vốn, thời gian dự trữ hàng trung bình, khả năng và thời gian thu hồi được các khoản phải thu. Nếu chu kỳ kinh doanh càng ngắn chứng tỏ cơ sở sản xuất, kinh doanh sử dụng vốn tốt, không để tồn kho và ứ đọng vốn quá cao. Thường chu kỳ kinh doanh của Thương mại là < 3 tháng; Sản xuất khoảng 6 - 9 tháng và Xây dựng có thể kéo dài 9 - 12 tháng. Trường hợp chu kỳ kinh doanh của khách hàng dài hơn mức bình thường, phải tìm hiểu và trình bày được nguyên nhân thể hiện đặc thù của khách hàng và phải mang tính thuyết phục.
+
+Lưu ý: Tùy theo đặc điểm của mỗi doanh nghiệp, ta sẽ chú trọng phân tích yếu tố này hay yếu tố khác. Việc đi sâu vào phân tích các chỉ số nào, tùy theo các trường hợp dưới đây:
+
+- Đối với khách hàng xin vay vốn lần đầu tiên tại ngân hàng, phần phân tích tài chính cần đầy đủ các chỉ số trên. Sau khi đã được phê duyệt cho vay, hàng tháng, quý hoặc 6 tháng cần cập nhật tình hình tài chính với một số thông số cơ bản như: doanh thu, lợi nhuận trước thuế, nợ vay các ngân hàng tại thời điểm vay vốn, tổng tài sản, tồn kho, phải thu, phải trả...
+
+- Đối với khách hàng đã có quan hệ vay vốn tại ngân hàng thì những lần cho vay tiếp theo sau khi đã trả hết nợ và tiếp tục có phương án xin vay vốn thì chỉ cần cập nhật một số chỉ tiêu cơ bản như doanh số, các khoản phải thu, phải trả, hàng tồn kho và phải phân tích được chi tiết các chỉ tiêu này phù hợp với phương án sản xuất kinh doanh.
+
+- Trường hợp khách hàng có phương án kinh doanh rất thuyết phục, đầu vào đầu ra rõ ràng, nguồn trả nợ kiểm soát được, tài sản đảm bảo chắc chắn, thì không cần đi sâu vào phân tích tài chính mà chỉ cần giới thiệu sơ bộ các chỉ tiêu này.
+
+## 6. Thẩm định phương án sản xuất, kinh doanh
+
+---
+Thẩm định phương án kinh doanh nhằm đánh giá khách hàng có khả năng thực hiện được phương án sản xuất kinh doanh hay không, phương thức thực hiện như thế nào, hiệu quả ra sao. Khách hàng có trả được nợ hay không, có nguồn trả nợ thực tế hay không phụ thuộc vào việc có thực hiện được phương án sản xuất kinh doanh. Cán bộ tín dụng căn cứ vào phương án kinh doanh và bộ hồ sơ do khách hàng có nhu cầu vay vốn gửi đến ngân hàng đồng thời thông qua phỏng vấn, điều tra thực địa, thông tin thị trường để phân tích và đưa ra nhận xét về mục đích vay vốn, nhu cầu vay vốn của doanh nghiệp và lập bảng phân tích, dự báo hiệu quả sau khi vay vốn:
+
+### (i) Đánh giá nội dung phương án sản xuất kinh doanh
+
+Kiểm tra, đánh giá hiện trạng về: Văn phòng/chi nhánh/cửa hàng kinh doanh (địa chỉ, diện tích); nhà xưởng, kho bãi (số lượng, diện tích, tình trạng hoạt động, địa chỉ); thiết bị, máy móc (số lượng, giá trị, tình trạng hoạt động). Đánh giá phương án vay vốn: đánh giá về việc mở rộng, cải tạo nhà xưởng, kho bãi (diện tích mở rộng cải tạo, chi phí mở rộng cải tạo; đánh giá về đầu tư trang thiết bị, máy móc (chủng loại, số lượng, giá trị); đầu tư vốn lưu động: Vật tư, nguyên, nhiên liệu, hàng hóa, dịch vụ (chủng loại, số lượng, giá trị), cụ thể:
+
+- **Xem xét đối tượng cho vay**
+
+Trong thực tế có rất nhiều đối tượng cho vay không tạo ra hiệu quả trực tiếp (Ví dụ như chi phí hoa hồng, môi giới, lễ phí, tiền phạt...) hoặc không nằm trong chi phí thực mà khách hàng phải bỏ ra để thực hiện phương án, dự án (như khấu hao tài sản cố định, thuế thu nhập...). Do vậy khi thẩm định cho vay, cán bộ tín dụng phải xem xét đối tượng cho vay đó có tạo ra hiệu quả trực tiếp không, có phải là chi phí thực mà doanh nghiệp phải bỏ ra khi thực hiện phương án kinh doanh và có nằm trong lĩnh vực mà ngân hàng cho vay không.
+
+- **Các yếu tố đầu vào**
+
+  + Đối với các phương án kinh doanh dịch vụ, các yếu tố đầu vào được thể hiện qua các hợp đồng, báo giá, biên bản xét thầu. Trên cơ sở hồ sơ do khách hàng cung cấp kết hợp với tìm hiểu trên thị trường, cán bộ tín dụng phải đánh giá số lượng, chủng loại, đơn giá, chất lượng sản phẩm hàng hóa, điều khoản về thời gian giao hàng và phương thức thanh toán của hợp đồng nhằm phát hiện những điều kiện bất lợi trong hợp đồng để tư vấn cho khách phương án tối ưu, hoặc những trường hợp khách hàng tăng/giảm chi phí một cách giả tạo.
+
+  + Đối với các phương án sản xuất, cần xem xét về các nhà cung cấp, số lượng, chất lượng của nguyên liệu có phù hợp với yêu cầu của sản phẩm hay không, định mức hao phí nguyên vật liệu, phương thức thanh toán, thời hạn giao hàng, (điều này đặc biệt quan trọng với các cơ sở sản xuất, kinh doanh thực hiện sản xuất theo hình thức gia công).
+
+- **Đầu ra**
+
+  + Đối với các phương án kinh doanh dịch vụ, cần xem xét khả năng tiêu thụ trên các phương diện hàng hóa, chất lượng, giá cả so với mặt bằng thị trường tại thời điểm.
+---
+
+thời điểm đó. Những trường hợp khách hàng đã có hợp đồng đầu ra thì cần xem xét kỹ nội dung hợp đồng và hình thức của hợp đồng đặc biệt là các điều khoản về hàng hoá, chất lượng, hiệu lực hợp đồng, thời hạn giao hàng, điều khoản thanh toán. Những trường hợp chưa có hợp đồng đầu ra, cần phân tích tình hình tiêu thụ mặt hàng đó trên thị trường, tình hình tồn kho, phương thức bán hàng và khả năng bán hàng của khách hàng để đánh giá khả năng tiêu thụ và phải đặc biệt lưu ý phân tích kỹ những trường hợp khách hàng mới kinh doanh mặt hàng đó, chưa có kinh nghiệm. Ngoài ra, nếu bán hàng trả chậm hoặc thanh toán sau, cán bộ tín dụng cần phân tích độ uy tín về thanh toán của khách hàng mua.
+
++ Đối với các phương án sản xuất, phải đánh giá khả năng tổ chức sản xuất và tiêu thụ, hoặc thi công của khách hàng, bao gồm xem xét công suất, năng lực sản xuất, thi công của doanh nghiệp. Kế hoạch và tiến độ sản xuất, thi công. Các chính sách, phương thức bán hàng tiêu thụ sản phẩm. Sản lượng, doanh số bán hàng của loại sản phẩm đó hàng tháng cũng như trong thời kỳ trước đó và dự kiến tình hình tiêu thụ trong thời gian tới.
+
+(ii) Hiệu quả phương án và dự báo thu - chi tiền mặt sau khi vay vốn
+
+Để đánh giá được hiệu quả kinh tế của phương án vay vốn và khả năng trả nợ của khách hàng, cán bộ tín dụng phải lập bảng tính toán chỉ tiêu trong một năm dự án gồm: Tổng doanh thu dự kiến; Tổng chi phí dự kiến; Lợi nhuận dự kiến. Giá trị của chỉ tiêu lợi nhuận > 0 chứng tỏ hoạt động sản xuất kinh doanh có hiệu quả và có khả năng trả nợ. Nếu < 0 doanh nghiệp sẽ khó có khả năng thanh toán nợ cho ngân hàng.
+
+(iii) Nguồn vốn thực hiện phương án
+
+Cán bộ tín dụng cần phải kiểm tra, đánh giá nguồn vốn tự có của khách hàng có đảm bảo hay không đảm bảo vốn tự có đã cam kết để thực hiện dự án. Tính toán lại nhu cầu vốn để thực hiện dự án, từ đó xác định số vốn cần thiết phải vay ngân hàng.
+
+(iv) Nguồn tiền trả nợ Ngân hàng
+
+Cán bộ tín dụng cần phải tính toán cụ thể nguồn tiền của khách hàng dùng để trả nợ ngân hàng (từ nguồn khấu hao tài sản từ vốn vay, khấu hao tài sản từ nguồn vốn tự có, Lợi nhuận từ dự án và các nguồn khác). Sau đó phải dự kiến được tổng số tiền trả nợ một năm.
+
+IV. THẨM ĐỊNH TÀI SẢN BẢO ĐẢM TIỀN VAY
+
+“Bảo đảm tín dụng (hay còn gọi là bảo đảm tiền vay) là việc các ngân hàng thiết lập cơ sở pháp lý và kinh tế, tạo điều kiện cho ngân hàng thoả mãn nhu cầu thu hồi tín dụng đã cấp trong trường hợp người vay không thực hiện trả nợ theo quy định”.
+
+Việc thực hiện bảo đảm tiền vay nhằm thiết lập các cơ sở kinh tế và pháp lý nhằm bảo vệ quyền lợi cho chủ nợ, giúp ngân hàng có những thu hồi nợ thứ hai khi người vay không thực hiện trả nợ theo quy định.
+
+1. Cơ sở thẩm định tài sản bảo đảm tiền vay
+
+---
+
+- Hồ sơ tài liệu và thông tin do khách hàng cung cấp: Đây là nguồn thông tin chủ yếu để xem xét đánh giá tình trạng và giá trị của tài sản bảo đảm (TSBĐ).
+
+- Khảo sát thực tế: Khẳng định lại các thông tin thu thập được từ khách hàng và phát hiện những vấn đề mới cần thẩm định tiếp.
+
+- Các nguồn khác: Chính quyền địa phương, công an, tòa án, cơ quan đăng ký giao dịch bảo đảm, các ngân hàng khác, hàng xóm láng giềng, báo chí... Kinh nghiệm cho thấy thông tin thu thập được từ nguồn này thường mang tính khách quan và chính xác cao, đặc biệt đối với việc xác định quyền sở hữu, xác định giá trị tài sản bảo đảm.
+
+## 2. Nội dung thẩm định bảo đảm tiền vay
+
+Tài sản bảo đảm do các bên thỏa thuận và thuộc sở hữu của bên có nghĩa vụ hoặc thuộc sở hữu của người thứ ba mà người này cam kết dùng tài sản đó để bảo đảm thực hiện nghĩa vụ của bên có nghĩa vụ đối với bên có quyền. Tài sản bảo đảm có thể là tài sản hiện có, tài sản hình thành trong tương lai và được phép giao dịch. Bao gồm: Quyền sử dụng đất, tài sản gắn liền với đất; Quyền sở hữu nhà; máy móc thiết bị, nhà xưởng; hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh là động sản dùng để trao đổi, mua bán, cho thuê trong phạm vi hoạt động sản xuất, kinh doanh của bên bảo đảm; giấy tờ có giá bao gồm cổ phiếu, trái phiếu, hối phiếu, kỳ phiếu, chứng chỉ tiền gửi, séc, giấy tờ có giá khác theo quy định của pháp luật, trí giá được thị trường chấp nhận và được phép giao dịch; các tài sản khác thỏa mãn các điều kiện làm bảo đảm...
+
+### 2.1. Điều kiện pháp lý
+
+Thứ nhất: Quyền sở hữu tài sản bảo đảm của khách hàng: Tài sản đó phải thuộc quyền sở hữu hợp pháp của khách hàng vay hoặc thuộc sở hữu của người thứ ba mà người này cam kết dùng tài sản đó để bảo đảm thực hiện nghĩa vụ của bên có nghĩa vụ đối với bên có quyền. Tài sản bảo đảm có thể là tài sản hiện có, tài sản hình thành trong tương lai và được phép giao dịch.
+
+Ở Việt Nam, đất đai mặc dù không thuộc quyền sở hữu riêng của thể nhân hoặc pháp nhân nhưng luật quy định cho phép thể chấp nếu được Nhà nước giao cho quyền sử dụng đất. Tức là người vay phải có quyền quản lý, quyền sử dụng đối với tài sản của Nhà nước.
+
+Để chứng minh được điều kiện này, bên có nghĩa vụ hoặc bên thứ ba phải xuất trình Giấy chứng nhận sở hữu, quyền quản lý sử dụng tài sản. Trường hợp thể chấp quyền sử dụng đất, bên có nghĩa vụ hoặc bên thứ ba phải có giấy chứng nhận quyền sử dụng đất và được thể chấp theo quy định của pháp luật hiện hành. Đối với tài sản mà Nhà nước giao cho doanh nghiệp nhà nước quản lý, sử dụng, doanh nghiệp phải chứng minh được quyền được cầm cố, thể chấp tài sản đó.
+
+- Đối với tiền gửi tại các TCTD: Phải có văn bản yêu cầu của bên bảo đảm được xác nhận của TCTD về số dư tài khoản phong tỏa, trách nhiệm phong tỏa tài khoản cho đến khi chi nhánh có văn bản đồng ý giải tỏa tài khoản và trách nhiệm thanh toán theo yêu cầu của chi nhánh mà không cần sự đồng ý nào khác.
+
+---
+
+của chủ tài khoản với lý do chủ tài khoản vi phạm nghĩa vụ đối với NH.
+
+- Đối với giấy tờ có giá: Có bản gốc giấy tờ có giá. Với giấy tờ có giá ghi danh thì họ tên của bên bảo đảm phải trùng với họ và tên người sở hữu ghi trên giấy tờ có giá. Còn đối với giấy tờ có giá vô danh thì chỉ cần xuất trình bản gốc giấy tờ có giá. Phải có văn bản xác nhận của tổ chức phát hành về tính xác thực của giấy tờ có giá cầm cố và không thanh toán trong thời gian đang cầm cố tại ngân hàng nhưng có trách nhiệm thanh toán theo yêu cầu của ngân hàng mà không cần sự đồng ý nào khác của chủ sở hữu.
+
+- Đối với bảo hiểm nhân thọ: Phải có bản gốc hợp đồng bảo hiểm nhân thọ giữa công ty bảo hiểm và bên bảo đảm. Có xác nhận và cam kết của công ty bảo hiểm về số tiền đã đóng của bên bảo đảm và trách nhiệm thanh toán theo yêu cầu của ngân hàng mà không cần sự đồng ý của bên bảo đảm nếu bên bảo đảm không thực hiện đúng nghĩa vụ với ngân hàng.
+
+- Trường hợp tài sản mà pháp luật quy định phải đăng ký quyền sở hữu thì bên có nghĩa vụ hoặc bên thứ ba phải có giấy chứng nhận quyền sở hữu TS. Cụ thể:
+
+  + Đối với phương tiện giao thông cơ giới đường bộ, đường thủy, hàng không phải có bản gốc giấy chứng nhận đăng ký phương tiện do các cơ quan nhà nước có thẩm quyền trong lĩnh vực đó cấp.
+
+  + Đối với quyền sử dụng đất hoặc quyền sở hữu nhà ở và quyền sử dụng đất ở: phải có giấy chứng nhận do cơ quan nhà nước có thẩm quyền cấp.
+
+  + Đối với tài sản không phải đăng ký quyền sở hữu:
+
+  + Đối với máy móc, thiết bị gắn liền với nhà xưởng công trình xây dựng, các tài sản khác gắn liền với đất hoặc không gắn liền với đất mà các tài sản này pháp luật chưa có quy định phải đăng ký quyền sở hữu, hàng hóa trong quá trình lưu thông thì khi cầm cố, thế chấp phải có giấy tờ chứng minh tài sản thuộc quyền sở hữu hợp pháp của bên bảo đảm hoặc thuộc quyền quản lý, sử dụng đối với bên bảo đảm là doanh nghiệp nhà nước.
+
+- Các loại giấy tờ chứng minh tài sản thuộc quyền sở hữu hợp pháp của các doanh nghiệp hoặc thuộc quyền quản lý, sử dụng của doanh nghiệp nhà nước như: hợp đồng mua bán, tặng, cho tài sản, hóa đơn mua, bán theo quy định của Bộ tài chính, chứng từ nộp tiền mua hàng, văn bản bàn giao tài sản của cơ quan nhà nước có thẩm quyền đối với DN nhà nước, biên bản nghiệm thu công trình, tờ khai hải quan, các giấy tờ khác phù hợp với quy định của pháp luật.
+
+  Thứ hai: Tài sản được phép giao dịch: Tài sản làm bảo đảm phải được pháp luật cho phép chuyển nhượng hợp pháp, được phép giao dịch. Nếu những tài sản không được chuyển nhượng hợp pháp sẽ gây khó khăn cho ngân hàng khi quản lý và phát mại tài sản. Tài sản được phép giao dịch được hiểu là các loại tài sản mà pháp luật cho phép hoặc không cấm mua, bán, tặng, cho, chuyển đổi, chuyển nhượng, cầm cố, thế chấp, bảo lãnh, và các giao dịch khác.
+
+  Thứ ba: Không có tranh chấp tại thời điểm ký kết hợp đồng bảo đảm. Để thỏa mãn điều kiện này, ngân hàng yêu cầu bên bảo đảm cam kết bằng văn bản
+
+---
+
+về việc TS không có tranh chấp về quyền sở hữu hoặc quyền sử dụng, quản lý TS đó và phải chịu trách nhiệm trước pháp luật về cam kết của mình.
+
+Thứ tư. Phải mua bảo hiểm nếu pháp luật quy định. Đối với tài sản pháp luật quy định phải mua bảo hiểm thì ngân hàng yêu cầu bên bảo đảm xuất trình hợp đồng mua bảo hiểm trong thời gian bảo đảm tiền vay. Trường hợp khoản vay có thời hạn dài, bên bảo đảm có thể xuất trình hợp đồng mua bảo hiểm có thời hạn ngắn hơn song phải có cam kết bằng văn bản về việc tiếp tục mua bảo hiểm trong thời gian tiếp theo cho đến khi hết thời hạn bảo đảm. Nhằm bảo đảm khả năng thu nợ an toàn, NH nên thoả thuận với khách hàng về việc chuyển tên người hưởng trong hợp đồng bảo hiểm là ngân hàng trong trường hợp rủi ro xảy ra. Trường hợp không thoả thuận được điều này, ngân hàng buộc khách hàng phải cam kết bằng văn bản về việc chuyển toàn bộ số tiền được đền bù theo hợp đồng bảo hiểm để thanh toán nợ gốc, nợ lãi và các chi phí khác tại ngân hàng.
+
+*Những khía cạnh cần lưu ý khi thẩm định tài sản bảo đảm:*
+
+- Thuộc quyền sở hữu hợp pháp của người vay: Thông qua giấy tờ về quyền sở hữu, trích lục bản đồ (đối với bất động sản).
+
+- Được phép giao dịch và không có tranh chấp. Được mua bảo hiểm đối với những tài sản Nhà nước quy định phải mua bảo hiểm.
+
+- Xem xét đánh giá tính thị trường của tài sản. Đánh giá giá trị tài sản (giá trị theo khung giá nhà nước, theo sổ sách kế toán, theo giá thị trường) và xu thế biến động giá trị tài sản.
+
+### 2.2. Điều kiện kinh tế
+
+- Tính thị trường cao thể hiện ở tính dễ dàng mua bán thông qua hai yếu tố cung - cầu. Trong điều kiện các yếu tố khác là cố định, tài sản được mua bán trên thị trường thì khi đó giá trị tài sản tuỳ thuộc vào quan hệ giữa cung và cầu.
+
+- Có giá trị trong thời đổi ổn định: Tính ổn định về mặt giá trị của tài sản được thể hiện qua việc dự đoán giá trị tài sản không thay đổi hoặc thay đổi ít trong suốt thời gian tài sản được dùng làm tài sản bảo đảm tiền vay tại ngân hàng.
+
+- Có đủ giá trị để bảo đảm tín dụng: điều kiện này yêu cầu giá trị định giá của tài sản bảo đảm tiền vay phải bảo đảm ít nhất hoàn trả đủ gốc, lãi và bồi thường thiệt hại cho khoản cho vay của ngân hàng.
+
+## IV. ĐỌC HIỂU VÀ PHÁT HIỆN RỦI RO GIAN LẬN TRÊN BÁO CÁO TÀI CHÍNH DOANH NGHIỆP
+
+### 1. Đọc hiểu thông tin trên báo cáo tài chính
+
+#### 1.1. Đọc hiểu thông tin trên Bảng cân đối kế toán
+
+Bảng cân đối kế toán là Báo cáo tài chính tổng hợp, phản ánh tổng quát toàn bộ giá trị tài sản hiện có và nguồn hình thành tài sản đó của doanh nghiệp tại một thời điểm nhất định.
+
+Số liệu trên Bảng cân đối kế toán cho biết toàn bộ giá trị tài sản hiện có của doanh nghiệp theo cơ cấu của tài sản và cơ cấu nguồn vốn hình thành các tài
+
+---
+
+Căn cứ vào Bảng cân đối kế toán có thể nhận xét, đánh giá khái quát tình hình tài chính của doanh nghiệp.
+
+Các nguyên tắc liên quan lập Bảng cân đối kế toán
+- Nguyên tắc giá phí
+- Nguyên tắc thực thể kinh doanh
+- Nguyên tắc hoạt động liên tục
+
+![Cấu trúc của Bảng cân đối kế toán (Balance Sheet)](image_url)
+
+# TÀI SẢN (Asset)
+- Là nguồn lực do doanh nghiệp kiểm soát và có thể thu được lợi ích kinh tế trong tương lai
+  - Nguyên tắc sắp xếp: Theo tính thanh khoản giảm dần
+  - Được báo cáo theo giá trị: Giá gốc (giá trị lịch sử), có điều chỉnh; Giá trị thuần có thể thực hiện được; Giá trị thị trường
+
+# NỢ PHẢI TRẢ (Liabilities)
+- Là nghĩa vụ hiện tại của doanh nghiệp phát sinh từ các giao dịch và sự kiện đã qua mà doanh nghiệp phải thanh toán từ các nguồn lực của mình
+  - Nguyên tắc sắp xếp: Theo thời hạn nợ (Nợ ngắn hạn, Nợ dài hạn)
+
+# VỐN CHỦ SỞ HỮU (Equity)
+- Vốn đầu tư của chủ sở hữu
+- Thặng dư vốn cổ phần
+- Lợi nhuận sau thuế chưa phân phối
+
+Ví dụ: Bảng cân đối kế toán công ty CT2. Tính đến 31/12/2019 và 2020
+
+Đơn vị: tỷ VNĐ
+
+| Tài sản                | 2019 | 2020 | Nguồn vốn     | 2019 | 2020 |
+|------------------------|------|------|---------------|------|------|
+| A. Tài sản ngắn hạn    | 1.112| 1.403| A. Nợ phải trả| 836  | 843  |
+
+---
+
+| - Tiền và tương đương tiền | 104 | 160 | I. Nợ ngắn hạn | 428 | 389 |
+|----------------------------|-----|-----|----------------|-----|-----|
+| - ĐT tài chính ngắn hạn    | 0   | 0   | - Vay nợ ngắn hạn | 232 | 266 |
+| - Các khoản phải thu       | 455 | 688 | - Phải trả người bán | 196 | 123 |
+| - Hàng tồn kho             | 553 | 555 | - Nợ ngắn hạn khác | 0   | 0   |
+| **B. Tài sản dài hạn**     | 1.644 | 1709 | **B. Vốn chủ sở hữu** | 1.920 | 2.269 |
+| - Nhà xưởng thiết bị ròng  | 1340 | 1409 | - Vốn đầu tư của chủ sở hữu | 500 | 500 |
+| - Tài sản cố định vô hình  | 204 | 200 | - Thặng dư vốn CP | 100 | 100 |
+| - Chi phí XDCB             | 100 | 100 | - Thu nhập giữ lại | 1.320 | 1.629 |
+| - TS cố định khác          | 0   | 0   |                  |     |     |
+| **Tổng tài sản**           | 2.756 | 3.112 | **Tổng nguồn vốn** | 2.756 | 3.112 |
+
+### 1.2. Đọc hiểu thông tin trên báo cáo kết quả kinh doanh
+
+Báo cáo kết quả kinh doanh là một bản tóm tắt kết quả hoạt động của một doanh nghiệp thực hiện trong một khoảng thời gian nhất định với kết quả là số liệu về lãi hoặc lỗ ròng cho thời kỳ hoạt động đó.
+
+- Bao gồm các thành phần chủ yếu: Doanh thu; Chi phí; Lợi nhuận
+- Nguyên tắc kế toán liên quan: Nguyên tắc phù hợp, Nguyên tắc ghi nhận doanh thu, Nguyên tắc ký kế toán
+
+**Ví dụ: Báo cáo kết quả kinh doanh công ty CT2 Năm 2020**
+
+(đơn vị tỷ VNĐ)
+
+| Doanh thu thuần | 1,509 |
+|-----------------|-------|
+| Chi phí bán hàng (chưa tính khấu hao) | 750 |
+| Khấu hao | 65 |
+| Thu nhập trước lãi vay và thuế (EBIT) | 694 |
+| Trả lãi tiền vay | 70 |
+| Thu nhập trước thuế (Thu nhập chịu thuế) | 624 |
+| Thuế thu nhập doanh nghiệp (34%) | 212 |
+
+---
+
+| Thu nhập ròng sau thuế (Thu nhập ròng) | 412 |
+|----------------------------------------|-----|
+| Chia cổ tức (25%)                      | 103 |
+| Thu nhập giữ lại (75%)                 | 309 |
+
+### 1.3. Đọc hiểu thông tin trên báo cáo lưu chuyển tiền tệ
+
+Báo cáo lưu chuyển tiền tệ là một báo cáo tài chính tổng hợp phản ánh tình hình thu – chi tiền tệ được phân loại theo ba hoạt động: Hoạt động kinh doanh, hoạt động đầu tư và hoạt động tài chính trong một thời kỳ nhất định.
+
+Các dòng tiền trong báo cáo lưu chuyển tiền tệ:
+- Dòng tiền từ hoạt động kinh doanh: Bao gồm các khoản thu chi liên quan đến hoạt động sản xuất và tiêu thụ sản phẩm, hàng hóa, dịch vụ của doanh nghiệp.
+- Dòng tiền từ hoạt động đầu tư: Bao gồm các khoản thu, chi liên quan đến hoạt động đầu tư mua sắm hoặc thanh lý các tài sản cố định và các khoản đầu tư tài chính dài hạn.
+- Dòng tiền từ hoạt động tài chính: Bao gồm các khoản thu, chi liên quan đến hoạt động huy động vốn từ chủ nợ và chủ sở hữu, hoàn trả vốn cho chủ nợ, mua lại cổ phần, chia lãi cho nhà đầu tư, chia cổ tức cho cổ đông...
+
+Báo cáo lưu chuyển tiền tệ được lập theo hai phương pháp: Phương pháp trực tiếp và phương pháp gián tiếp.
+
+#### CẤU TRÚC BÁO CÁO LƯU CHUYỂN TIỀN TỆ (Phương pháp trực tiếp)
+
+| Số dư bằng tiền đầu kỳ | |
+|------------------------|------------------------|
+| Lưu chuyển tiền thuần từ hoạt động kinh doanh | |
+| **Lưu chuyển tiền thuần từ hoạt động đầu tư** | |
+| **Lưu chuyển tiền thuần từ hoạt động tài chính** | |
+| **Tăng/giảm thuần trong kỳ** | |
+| **Tiền và tương đương tiền cuối kỳ** | |
+
+#### CẤU TRÚC BÁO CÁO LƯU CHUYỂN TIỀN TỆ (Phương pháp gián tiếp)
+
+---
+
+![Hoạt động SXKD](image_link)
+
+**Hoạt động SXKD**
+- **Lợi nhuận (sau thuế)**
+  - Tỷ lệ hoàn vốn
+  - Biến động về tài sản lưu động
+    - Tăng tài sản lưu động
+    - Giảm tài sản lưu động
+    - Tăng tài sản cố định
+    - Giảm tài sản cố định
+  - Biến động về giá trị sản xuất
+    - Tăng giá trị sản xuất
+    - Giảm giá trị sản xuất
+
+**Hoạt động Đầu tư**
+- **Biến động về tài sản dài hạn**
+  - Tăng tài sản dài hạn
+  - Giảm tài sản dài hạn
+  - Tăng tài sản cố định
+  - Giảm tài sản cố định
+
+**Hoạt động Tài chính**
+- **Biến động về vốn**
+  - Tăng vốn
+  - Giảm vốn
+  - Tăng nợ
+  - Giảm nợ
+
+**Tăng hiệu quả hoạt động của công ty**
+
+---
+
+## 2. Phát hiện dấu hiệu rủi ro và gian lận trên báo cáo tài chính doanh nghiệp
+
+### 2.1. Dấu hiệu rủi ro và gian lận trên bảng cân đối kế toán
+
+- **a) Tiền và tương đương tiền**: Tiền và tương đương tiền cuối kỳ phải khớp với số liệu trên báo cáo lưu chuyển tiền tệ.
+- **b) Đầu tư tài chính**:
+  - Kiểm tra số liệu đầu tư tài chính trên BCDKT có khớp với bảng kê khai chi tiết của Công ty không?
+  - Kiểm tra công ty đã trích lập dự phòng đầy đủ cho các khoản mục đầu tư tài chính chưa qua kiểm tra giá thị trường (đối với khoản đầu tư niêm yết trên sở giao dịch chứng khoán), số liệu lợi nhuận trên báo cáo tài chính (đối với khoản đầu tư chưa niêm yết).
+- **c) Tài sản cố định**: Chú ý tới khẩu hao hàng năm để xem chính sách trích khấu hao của DN: Ổn định hay không ổn định, nếu không ổn định thì phải xác định nguyên nhân và các ảnh hưởng đến kết quả kinh doanh của công ty.
+- **d) Vay nợ**:
+  - Hệ số nợ: Tỷ lệ nợ phải trả/tổng nguồn vốn theo chuẩn quốc tế: 50%, chuẩn Việt nam: 70% => Nếu tỷ lệ này vượt quá 70% thì rất rủi ro.
+  - Sử dụng nguồn ngân hàng tài trợ dài hạn: Kiểm tra công ty có sử dụng nguồn ngân hàng để tài trợ dài hạn không và việc tính toán chỉ tiêu vốn lưu động ròng (Net Working Capital - NWC) = Tài sản ngắn hạn – Nợ ngắn hạn.
+    - Nếu NWC < 0 => có rủi ro công ty sử dụng vốn sai mục đích, vốn ngắn hạn tài trợ dài hạn.
+    - Công ty cần đảm bảo NWC > 0.
+  - Sử dụng nợ vay có hiệu quả không:
+
+---
+
+Để xác định doanh nghiệp có nên sử dụng Nợ ngân hàng hay không, ta có thể so sánh:
+
+Hệ số sinh lời cơ bản Basic Earning Power (BEP) với chi phí vốn vay (Kd) trong đó:
+
+\[ \text{BEP} = \frac{\text{EBIT}}{\text{Tổng Tài Sản}} \]
+
+- BEP > Kd => sử dụng nợ vay càng nhiều càng tốt.
+- BEP < Kd => Không nên sử dụng nợ vay.
+
+Nếu BEP < Kd => Phải thay đổi cơ cấu vốn để đảm bảo hiệu quả.
+
+1/ Tăng vốn chủ sở hữu (VCSH):
+   - Giảm tỷ lệ chi trả cổ tức.
+   - Phát hành thêm cổ phiếu.
+
+2/ Giảm nợ vay:
+   - Tăng tỷ lệ chiếm dụng để giảm tỷ lệ nợ phải trả lãi.
+   - Bán tài sản cố định để trả nợ (=> Giảm quy mô).
+
+## 2.2. Dấu hiệu rủi ro và gian lận trên báo cáo kết quả kinh doanh
+
+- Báo cáo kết quả kinh doanh là báo cáo cần chú ý đầu tiên khi phân tích BCTC để xác minh tính hợp lý của số liệu.
+- Các vấn đề cần lưu ý là:
+  - Doanh thu có bị khai khống không?
+  - So sánh Doanh thu với 2 chỉ tiêu là giá trị các khoản phải thu và dòng tiền từ hoạt động kinh doanh trong kỳ để xem có lệch nhiều không.
+  - Kiểm tra bảng kê chi tiết thuế VAT đầu ra để xác định chính xác số doanh thu trong kỳ.
+  - Giá vốn hàng bán có bị điều chỉnh để làm tăng lợi nhuận không.
+
+Phân tích chỉ số Tỷ lệ giá vốn/Doanh thu:
+  - Ổn định qua các năm (thay đổi ít trong khoảng <5%) => Hợp lý.
+  - Không ổn định qua các năm (Thay đổi > 5%) => Làm rõ nguyên nhân để xem có hợp lý không.
+    - Hợp lý: Giá nguyên, nhiên vật liệu đầu vào giảm, tiết kiệm định mức tiêu hao, chi phí sản xuất trực tiếp…
+    - Không hợp lý: thay đổi thời gian khấu hao, phương pháp khấu hao.
+  - Chi phí lãi vay:
+    - Kiểm tra chi phí lãi vay bằng cách tính lại chi phí lãi vay phát sinh trong kỳ = Dư nợ bình quân trong kỳ * Lãi suất vay vốn.
+
+---
+- Nếu hai số liệu không chênh nhau quá nhiều => Hợp lý
+- Nếu hai số liệu chênh lệch lớn => Làm rõ nguyên nhân
++ Vay nợ trong năm tập trung các tháng cuối năm => Tính lãi tiền vay bình quân không chính xác?
++ Vay nợ được ân hạn trả lãi
++ Lãi vay được vốn hóa do vay để đầu tư tài sản cố định
+✔ Chi phí bán hàng, chi phí quản lý doanh nghiệp
+- Tính các tỷ lệ chi phí này trên tổng doanh thu/Tổng chi phí để xem biến động qua các năm, nếu tỷ lệ này thay đổi không nhiều (<5%) => Hợp lý, nếu thay đổi >5% cần làm rõ nguyên nhân gây đột biến.
+- So sánh giá trị tuyệt đối của chi phí quản lý DN để xem có thay đổi lớn qua các năm không vì chi phí này tương đối ổn định (chủ yếu là lương)
+✔ Thu nhập khác, chi phí khác: Làm rõ các thu nhập này đến từ đâu, đề nghị công ty giải trình chi tiết để xem có hợp lý không?
+✔ Lợi nhuận sau thuế
+- Kiểm tra lợi nhuận sau thuế trên báo cáo kết quả kinh doanh có phù hợp với lợi nhuận chưa phân phối trên bảng cân đối kế toán không, công thức:
+- Lợi nhuận chưa phân phối cuối kỳ = Lợi nhuận chưa phân phối đầu kỳ + Cổ tức đã trả trong kỳ - Trích lập các quỹ trong kỳ + Lợi nhuận sau thuế trong kỳ
+Nếu hai về bằng nhau => hợp lý, nếu không bằng nhau cần yêu cầu giải trình nguyên nhân.
+
+## 2.3. Dấu hiệu rủi ro và gian lận trên báo cáo lưu chuyển tiền tệ (BCLCTT)
+
+- Về bản chất, số liệu trên báo cáo lưu chuyển tiền tệ (theo phương pháp gián tiếp) được lấy từ báo cáo kết quả kinh doanh và bảng cân đối kế toán => Báo cáo theo phương pháp gián tiếp giúp kiểm tra các số liệu tốt hơn là báo cáo theo phương pháp trực tiếp do có liên hệ trực tiếp với báo cáo kết quả kinh doanh (BCKQKD) và bảng cân đối kế toán (BCĐKT).
+- Để kiểm tra xem BCLCTT và BCĐKT và BCKQKD có được lập chính xác hay không, ta tiến hành lập lại BCLCTT theo phương pháp gián tiếp từ BCĐKT và BCKQKD, cụ thể:
+
+| TT | Chỉ tiêu | Lấy số liệu |
+|----|----------|-------------|
+| I  | Lưu chuyển tiền từ hoạt động kinh doanh | |
+| 1  | Lợi nhuận trước thuế | Chỉ tiêu LNTT trên BCKQKD |
+| 2  | Khấu hao | Khấu hao lũy kế cuối kỳ - Khấu hao lũy kế đầu kỳ trên BCĐKT |
+| 3  | Các khoản phải thu | (KPT cuối kỳ - KPT đầu kỳ) trên BCĐKT |
+| 4  | Hàng tồn kho | (HTK cuối kỳ - HTK đầu kỳ) trên BCĐKT |
+| 5  | Các khoản phải trả | (KPT cuối kỳ - KPT đầu kỳ) trên BCĐKT |
+| 6  | Nợ định kỳ (Nợ lương) | (Nợ định kỳ cuối kỳ - Nợ định kỳ đầu kỳ) trên BCĐKT |
+---
+
+| người LĐ, nợ thuế và các khoản nợ khác) | BCĐKT |
+|-----------------------------------------|-------|
+| 7 | Thuế TNDN | Chỉ tiêu Thuế TNDN trên BCKQKD |
+| Lưu chuyển tiền từ hoạt động kinh doanh | = 1 + 2 + 3 + 4 + 5 + 6 + 7 |
+
+## II. Lưu chuyển tiền từ hoạt động Đầu tư
+
+| 8 | Mua sắm, xây dựng TSCĐ | Cách 1 = (Nguyên giá TSCĐ hữu hình + Nguyên giá TSCĐ vô hình + Nguyên giá BĐS đầu tư) cuối kỳ - (Nguyên giá TSCĐ hữu hình + Nguyên giá TSCĐ vô hình + Nguyên giá BĐS đầu tư) đầu kỳ. Cách 2 = (TSDH cuối kỳ - TSDH đầu kỳ) + (Khấu hao lũy kế cuối kỳ - Khấu hao lũy kế đầu kỳ). |
+| 9 | Tài sản cố định khác | TSCĐ khác cuối kỳ - TSCĐ khác đầu kỳ. |
+| Lưu chuyển tiền từ hoạt động đầu tư | = 8 + 9 |
+
+## III. Lưu chuyển tiền từ hoạt động Tài chính
+
+| 10 | Vay và nợ ngắn hạn | Vay và nợ ngắn hạn cuối kỳ - đầu kỳ trên BCĐKT |
+| 11 | Nợ dài hạn | Nợ dài hạn cuối kỳ - đầu kỳ trên BCĐKT |
+| 12 | Vốn cổ phiếu thường | Vốn đã phát hành thêm trong kỳ |
+| 13 | Chi trả cổ tức | Cổ tức đã trả trong kỳ |
+| Lưu chuyển tiền từ hoạt động Tài chính | = 10 + 11 + 12 + 13 |
+
+## Lưu chuyển tiền trong kỳ
+
+| Lưu chuyển tiền trong kỳ | = I + II + III |
+| Tiền và tương đương tiền đầu kỳ | Tiền và tương đương tiền đầu kỳ trên BCĐKT |
+| Tiền và tương đương tiền cuối kỳ | = Lưu chuyển tiền trong kỳ + Tiền và tương đương tiền đầu kỳ |
+
+➡ So sánh chỉ tiêu Tiền và tương đương tiền cuối kỳ trên BCLCTT mới lập và Giá trị Tiền và tương đương tiền cuối kỳ trên BCĐKT, nếu:
++ Hai giá trị này bằng nhau ➔ Hợp lý.
++ Hai giá trị này khác nhau ➔ cần phải kiểm tra lại để xem điểm bị nhầm.
+
+**Lưu ý:**
+- Dòng tiền từ hoạt động kinh doanh chỉ có thể chấp nhận bị âm trong 3 năm đầu kể từ khi thành lập doanh nghiệp do cần thời gian để tìm kiếm khách hàng, chiếm lĩnh thị trường.
+- Kể từ năm thứ 3 trở đi, nếu dòng tiền hoạt động kinh doanh bị âm tức là hoạt động kinh doanh đang có vấn đề, công ty có thể đang gặp khó khăn về tài chính.
